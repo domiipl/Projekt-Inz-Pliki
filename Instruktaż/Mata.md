@@ -1,4 +1,4 @@
-# 4. **Mata sterująca**
+# 3. **Mata sterująca**
 
 ![image alt text](image_0.png)
 
