@@ -257,6 +257,8 @@ Efekt końcowy po podłączeniu całości i zamontowaniu przełącznika w płytc
 
 ### **Kod do maty**
 
+**Instalacja kodu**
+
 Tak jak w przypadku robota, pełny kod znajdziesz w linku poniżej.
 
 [Kod do maty](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Kod%20-%20mata/Mata.js)
@@ -290,7 +292,7 @@ Na koniec możemy jeszcze sprawdzić czy wszystko działa komendą
 ```
 systemctl status nodeserver.service
 ```
-### **Opis kodu**
+**Opis kodu**
 
 Standardowo, musimy zacząć od dołączenia odpowiednich bibliotek oraz sterowników. Będą nam potrzebne biblioteki odpowiedzialne za komunikację sieciową, komunikację z pinami malinki oraz sterownik do ekranu oled.
 ```
