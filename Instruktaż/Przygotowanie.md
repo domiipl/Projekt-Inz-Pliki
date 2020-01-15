@@ -68,6 +68,8 @@ Kiedy już wybierzemy odpowiedni moduł płytki nasze IDE jest w pełni skonfigu
 
 **Raspberry Pi Zero**
 
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_20.jpg width="30%" height="50%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_21.jpg width="30%" height="50%">
+
 Minikomputer Raspberry Pi w wersji miniaturowej. Wyposażony w procesor Broadcom BCM2835 1 GHz i 512 MB pamięci RAM, WiFi, Bluetooth, port miniHDMI, gniazdo microUSB OTG, 40 GPIO, złącza na kartę microSD oraz cztery otwory montażowe. Wymiary płytki to: 65 x 30 x 5 mm. Ta wersja posiada wlutowane złącza męskie GPIO.
 
 Nasze Raspberry będzie odpowiedzialne za obsługę maty.
@@ -111,11 +113,12 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 **Płytki PCB**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png>
-**_Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi_**
+
+***Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png>
 
-**_Zdjęcie przedstawia projekt płytki drukowanej dwustronnej. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie._**
+***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
 Do naszego robota oraz maty będzie potrzeba po jednej płytce pcb. W tym miejscu mamy dwa sposoby na ich przygotowanie. Możesz je przygotować samemu, tak jak zrobiliśmy to my lub możesz takowe płytki zamówić za dodatkową opłatą. Jeśli zdecydujesz się zamówić płytki, będzie Ci potrzebny jedynie plik ze schematem, który musisz wysłać do odpowiedniej firmy. 
 
