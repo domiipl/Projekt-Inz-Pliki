@@ -18,51 +18,51 @@ Program ten jest w pełni darmowy i można go uruchomić na Windowsie, Linuxie l
 
 [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
 
-![image alt text](image_2.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_2.png>
 
 Wciskamy interesujący nas link z installerem z prawej strony i przechodzimy dalej. Ja wykorzystam tutaj instalator dla systemu Windows.
 
-![image alt text](image_3.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_3.png>
 
 Jak wspomniałem, program jest w pełni darmowy dlatego strona proponuje nam dobrowolny podarunek pieniężny, więc jeżeli czujesz że chcesz wspomóc twórców - śmiało zaznacz interesującą Cię kwotę i przejdź dalej przyciskiem "**CONTRIBUTE & DOWNLOAD**". Ja natomiast przejdę do pobierania wciskając przycisk “**JUST DOWNLOAD**”.
 
 Czekamy aż instalka skończy się pobierać i przechodzimy do instalacji programu. Oczywiście czytamy całą umowę licencyjną i jeśli nie mamy zastrzeżeń wciskamy "I Agree".
 
-![image alt text](image_4.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_4.png>
 
 Wybieramy zawartość, którą chcemy zainstalować i przechodzimy dalej.
 
-![image alt text](image_5.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_5.png>
 
 Następnie wybieramy folder, do którego chcemy zainstalować nasze IDE.
 
-![image alt text](image_6.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_6.png>
 
 Po zakończonej instalacji zamykamy installer i nasze IDE jest już prawie gotowe do użytku. Musimy je jeszcze odpowiednio skonfigurować.
 
-![image alt text](image_7.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_7.png>
 
 **Konfiguracja IDE**
 
 Zaczynamy od włączenia IDE, jeśli zostało przez nas wyłączone. Następnie otwieramy menu preferencji.
 
-![image alt text](image_8.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_8.png>
 
 Kopiujemy podaną linie i wklejamy do pola "Dodatkowe adresy URL do menedżera płytek" [http://arduino.esp8266.com/stable/package_esp8266com_index.json](http://arduino.esp8266.com/stable/package_esp8266com_index.json) i potwierdzamy przyciskiem OK.
 
-![image alt text](image_9.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_9.png>
 
 Kolejnym krokiem jest przejście do menedżera płytek.
 
-![image alt text](image_10.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_10.png>
 
 W polu wyszukiwania wpisujemy "esp8266" a następnie instalujemy dany pakiet.
 
-![image alt text](image_11.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_11.png>
 
 Po zakończonej instalacji pakietu, zamykamy okno menedżera płytek i klikamy jeszcze raz w narzędzia i wybieramy "Generic ESP8266 Module" z listy dostępnych płytek.
 
-![image alt text](image_12.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_12.png>
 
 Kiedy już wybierzemy odpowiedni moduł płytki nasze IDE jest w pełni skonfigurowane i gotowe do użytku.
 
@@ -110,10 +110,10 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 **Płytki PCB**
 
-![image alt text](image_13.png)**
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png>
 **_Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi_**
 
-![image alt text](image_14.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png>
 
 **_Zdjęcie przedstawia projekt płytki drukowanej dwustronnej. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie._**
 
@@ -183,16 +183,16 @@ Zanim przejdziesz już do tworzenia płytki, pamiętaj aby zachować wszelką os
 
 W tym kroku jest nam potrzebna drukarka laserowa. Jak wspomniałem wyżej, jeśli masz - świetnie, jeśli jednak nie, popytaj znajomych. Musimy wydrukować schemat płytki, najlepiej żebyś to zrobił przy użyciu papieru kredowego - jest tani i łatwo dostępny, także nie powinieneś mieć problemu z dostaniem go.
 
-![image alt text](image_15.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_15.png>
 
 **Wymiarowanie**
 
 Teraz przykładamy schemat do płytki i wiercimy dziurki w rogach schematu na płytce, tak aby góra i dół pokrywały się ze sobą, ponieważ płytka będzie dwustronna. Następnie docinamy płytkę do wielkości schematu i przechodzimy do kolejnego kroku.
 
 
-![image alt text](image_16.png)![image alt text](image_17.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_16.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_17.png>
 
-![image alt text](image_18.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_18.png>
 
 **Czyszczenie powierzchni**
 
@@ -218,7 +218,7 @@ W tym miejscu powinieneś założyć swoje gumowe rękawiczki. Sam roztwór nie 
 Przejdziemy teraz do utworzenia roztworu, który wytrawi miedź z płytki. Przygotuj 100 gramów kwasu B327 oraz pół litra wody (takie są proporcje roztworu), najlepiej o temperaturze 50 stopni, jeżeli nie jesteś w stanie kontrolować temperatury wody możesz ostatecznie użyć wrzątku. Zalewasz kwas ciepłą wodą i mieszasz wszystko do momentu, w którym kryształki kwasu się rozpuszczą.
 
 Do utworzonego roztworu wrzucamy naszą płytkę. Całość najlepiej umieścić w płaskim pudełku. Kiedy płytka znajduje się w środku, potrząsaj lekko pudełkiem, tak aby mieszanka była cały czas w ruchu, ponieważ to przyspiesza proces trawienia. Całość powinna trwać od 5 do 10 minut. Po upływie około 3 minut, obróć płytkę, aby zobaczyć jak proces trawienia przebiega z drugiej strony.
-![image alt text](image_19.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_19.png>
 
 Kiedy miedź zostanie usunięta z miejsc, w których nie ma toneru, proces trawienia można uznać za zakończony. Wyciągamy płytkę z mieszanki. Następnie płytkę wycieramy i myjemy pod bieżącą wodą.
 
