@@ -20,7 +20,7 @@ Orientacyjne koszty na dzień 16 stycznia 2020:
 * **Mata** - 
 * **Płytki PCB** - 
 
-Zdjęcia jak mniej więcej powinny wyglądać produkty na końcu budowy:
+Zdjęcia końcowe produktów:
 
 **Robot**
 
