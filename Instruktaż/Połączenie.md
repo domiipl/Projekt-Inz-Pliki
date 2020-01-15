@@ -1,4 +1,4 @@
-# 5. **Połączenie robota oraz maty**
+# 4. **Połączenie robota oraz maty**
 
 ### **Opis działania**
 
