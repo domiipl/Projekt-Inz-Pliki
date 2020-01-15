@@ -62,9 +62,9 @@ Przykładowy link do sklepu:
 
 [https://botland.com.pl/pl/moduly-wifi/8241-modul-wifi-esp8266-nodemcu-v3.html](https://botland.com.pl/pl/moduly-wifi/8241-modul-wifi-esp8266-nodemcu-v3.html) 
 
-6. **Kondensator 100uF 16V lub więcej**- 1 sztuka
+6. **Kondensator 100uF 16V lub więcej** - 1 sztuka
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.png>
 
 Przykładowy link do sklepu:
 
@@ -97,13 +97,13 @@ Przykładowy link do sklepu:
 Łączy w szereg dwa ogniwa 18650. Daje to od ~7.0 do 8.4 V w zależności od naładowania ogniw. Długi 30-centymetrowy kabel daje się ładnie układać. 
 
 Przykładowy link do sklepu:
-(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html)(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html) 
+[https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html](https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html) 
 
-(https://abc-rc.pl/product-pol-8528-Koszyk-na-akumulator-2x-18650-3-7V-Li-Ion-koszyczek-na-baterie-ogniwo-z-przewodami.html)
+[https://abc-rc.pl/product-pol-8528-Koszyk-na-akumulator-2x-18650-3-7V-Li-Ion-koszyczek-na-baterie-ogniwo-z-przewodami.html]
 (https://abc-rc.pl/product-pol-8528-Koszyk-na-akumulator-2x-18650-3-7V-Li-Ion-koszyczek-na-baterie-ogniwo-z-przewodami.html) 
 
 Koszyk z włącznikiem:
-(https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html)(https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html) 
+[https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html](https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html) 
 
 9. **Stabilizator liniowy 3.3V  min. 0.8A** – 1 sztuka
 
