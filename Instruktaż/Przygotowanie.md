@@ -2,7 +2,7 @@
 
 Do utworzenia naszego projektu, będą potrzebne: 
 
-**NodeMCU(Arduino)**
+### **NodeMCU(Arduino)**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_0.jpg width="30%" height="50%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_1.jpg width="30%" height="50%">
 
@@ -10,7 +10,7 @@ Do utworzenia naszego projektu, będą potrzebne:
 
 Moduł **NodeMCU** to **Arduino** z wlutowanym **ESP8266-12**. Arduino pozwala nam sterować pozostałymi częściami elektronicznymi w projekcie a ESP zapewnia nam bezprzewodową łączność. W naszym projekcie mikrokontroler będzie wykorzystany do sterowania robotem oraz do tworzenia sieci WiFi, do której będzie łączyć się nasza mata.
 
-**Arduino IDE**
+### **Arduino IDE**
 
 Natomiast do napisania odpowiedniego oprogramowania przyda nam się **Arduino IDE**, które pozwala zaprogramować nam NodeMCU językiem C. Do poprawnego działania IDE z NodeMCU potrzebne są dodatkowe biblioteki co opiszemy w dalszej części poradnika.
 
@@ -42,7 +42,7 @@ Po zakończonej instalacji zamykamy installer i nasze IDE jest już prawie gotow
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_7.png>
 
-**Konfiguracja IDE**
+### **Konfiguracja IDE**
 
 Zaczynamy od włączenia IDE, jeśli zostało przez nas wyłączone. Następnie otwieramy menu preferencji.
 
@@ -66,7 +66,7 @@ Po zakończonej instalacji pakietu, zamykamy okno menedżera płytek i klikamy j
 
 Kiedy już wybierzemy odpowiedni moduł płytki nasze IDE jest w pełni skonfigurowane i gotowe do użytku.
 
-**Raspberry Pi Zero**
+### **Raspberry Pi Zero**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_20.jpg width="30%" height="50%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_21.jpg width="30%" height="50%">
 
@@ -80,7 +80,7 @@ Przykładowy link do sklepu:
 
 Niestety, w chwili pisania poradnika, malinka dostępna jest tylko na botlandzie lub allegro.
 
-**Instalacja Node.js**
+### **Instalacja Node.js**
 
 Zaczynamy od wybrania odpowiedniej wersji Node’a, w naszym przypadku jest to wersja [v8.9.1](https://nodejs.org/dist/v8.9.1/?fbclid=IwAR22xwn0nsIXQ3rgm9jB1sXLJzWi_KS5BXUQsl9sqw9HL_lsmz8PQPp63Fs) i wybieramy plik "linux-armv6l", ponieważ używamy Raspberry PI Zero. Łączymy się z malinką za pomocą SSH i wpisujemy daną komendę, która pobierze nam odpowiednią wersję Node’a.
 
@@ -106,11 +106,11 @@ Warto tutaj dodać, że wspomniany wcześniej NPM opiera się mocno o dostęp do
 
 W tym momencie wszystko powinno być skonfigurowane i gotowe do użytku.
 
-**Części do budowy robota oraz maty**
+### **Części do budowy robota oraz maty**
 
 Oczywiście do budowy naszego projektu będą potrzebne różne części, które opiszemy w kolejnych rozdziałach.
 
-**Płytki PCB**
+### **Płytki PCB**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png>
 
@@ -136,7 +136,7 @@ Przykładowe linki do firm:
 
 Przejdźmy teraz do przygotowania płytek w warunkach domowych. 
 
-**Przygotowanie**
+### **Przygotowanie**
 
 Potrzebne Ci będzie kilka rzeczy,
 
@@ -229,7 +229,7 @@ Warto tutaj dodać, że jeśli planujesz zrobić więcej płytek, to roztwór je
 
 Sprawdzamy teraz czy wszystkie ścieżki wyglądają poprawnie, jeśli tak to zmywamy toner acetonem. Miejsca, w których toner przykleił się bardzo mocno, można lekko przetrzeć papierem ściernym lub drucianą gąbką.
 
-**Pistolet do kleju**
+### **Pistolet do kleju**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_22.jpg width="30%" height="50%">
 
@@ -246,7 +246,7 @@ Przykładowy link:
 [https://botland.com.pl/pl/kleje-i-klejarki/976-pistolet-do-klejenia-20w-zd-5.html](https://botland.com.pl/pl/kleje-i-klejarki/976-pistolet-do-klejenia-20w-zd-5.html)
 [https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv](https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv) 
 
-**Lutownica kolbowa**
+### **Lutownica kolbowa**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_23.jpg width="30%" height="50%">
 
@@ -262,7 +262,7 @@ Przykładowy link do sklepu:
 
 [https://abc-rc.pl/product-pol-12145-Lutownica-220V-60W-regulacja-temperatury.html](https://abc-rc.pl/product-pol-12145-Lutownica-220V-60W-regulacja-temperatury.html)
 
-**Śrubokręt i śrubki**
+### **Śrubokręt i śrubki**
 
 * śrubokręt płaski
 
