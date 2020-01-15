@@ -6,11 +6,11 @@ Posiadając podstawową wiedzę na temat programowania i elektroniki, będziesz 
 
 Repozytorium jest podzielone na pięć folderów. Każdy z nich odpowiada za osobną część naszego projektu.
 Dzielą się one na:
-* Kod robota - znajduje się tu gotowy kod, dzięki któremu robot będzie w stanie się poruszać.
-* Kod maty - znajduje się tu gotowy kod, dzięki któremu będziemy w stanie wysyłać komendy z maty do robota.
-* Schemat robota - wymagane pliki do zamówienia płytki pcb do robota.
-* Schemat maty - wymagane pliki do zamówienia płytki pcb do robota.
-* Instruktaż - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
+* **Kod robota** - znajduje się tu gotowy kod, dzięki któremu robot będzie w stanie się poruszać.
+* **Kod maty** - znajduje się tu gotowy kod, dzięki któremu będziemy w stanie wysyłać komendy z maty do robota.
+* **Schemat robota** - wymagane pliki do zamówienia płytki pcb do robota.
+* **Schemat maty** - wymagane pliki do zamówienia płytki pcb do robota.
+* **Instruktaż** - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
 
 Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Powodzenia!
 
