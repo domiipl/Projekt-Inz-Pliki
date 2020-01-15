@@ -7,27 +7,27 @@
 
 # Spis treści
 1. Przygotowanie
-  - NodeMCU(Arduino)
-    - Arduino IDE
-    - Konfiguracja IDE
-  - Raspberry Pi Zero
-    - Instalacja Node.js
-  - Części do budowy robota oraz maty
-  - Płytki PCB
-    - Przygotowanie
-  - Pistolet do kleju
-  - Lutownica kolbowa
-  - Śrubokręt i śrubki
+    - NodeMCU(Arduino)
+      - Arduino IDE
+      - Konfiguracja IDE
+    - Raspberry Pi Zero
+      - Instalacja Node.js
+    - Części do budowy robota oraz maty
+    - Płytki PCB
+      - Przygotowanie
+    - Pistolet do kleju
+    - Lutownica kolbowa
+    - Śrubokręt i śrubki
 2. Robot
-  - Lista wymaganych materiałów.
-  - Budowa Robota
-  - Kod do robota
+    - Lista wymaganych materiałów.
+    - Budowa Robota
+    - Kod do robota
 3. Mata
-  - Lista wymaganych materiałów:
-  - Budowa maty
-    - Obudowa maty
-  - Kod do maty
+    - Lista wymaganych materiałów:
+    - Budowa maty
+      - Obudowa maty
+    - Kod do maty
 4. Połączenie
-  - Opis działania
+    - Opis działania
 5. Podsumowanie
-  - Dodatkowe pomysły
+    - Dodatkowe pomysły
