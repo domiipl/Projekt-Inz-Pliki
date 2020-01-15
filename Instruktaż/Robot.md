@@ -13,17 +13,11 @@ Przezroczysta platforma do budowy robota. W zestawie znajdują się dwa silniki 
 Zestaw zawiera:
 
 * Platformę montażową
-
 * Dwa koła z oponami o średnicy 65 mm 
-
 * Dwa silniki prądu stałego z przekładniami
-
 * Jedno metalowe koło obrotowe montowane przy pomocy dwóch śrub
-
 * Metalowe oraz plastikowe podzespoły (śrubki, nakrętki, itp.)
-
 * Włącznik
-
 * Koszyk na baterie (4 x AA) ze przewodami ze zdjętą izolacją
 
 Warto tutaj dodać, że jeśli zdecydujesz się na zakup danego podwozia, to nie musisz już martwić się o silniki oraz koła, ponieważ są zawarte w tym zestawie. Natomiast nadal powinieneś zakupić podany w tej liście koszyk na baterie.
@@ -103,13 +97,13 @@ Przykładowy link do sklepu:
 Łączy w szereg dwa ogniwa 18650. Daje to od ~7.0 do 8.4 V w zależności od naładowania ogniw. Długi 30-centymetrowy kabel daje się ładnie układać. 
 
 Przykładowy link do sklepu:
-	(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html)(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html) 
+(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html)(https://botland.com.pl/pl/koszyki-na-baterie/5240-koszyk-na-2-baterie-typu-18650.html) 
 
 (https://abc-rc.pl/product-pol-8528-Koszyk-na-akumulator-2x-18650-3-7V-Li-Ion-koszyczek-na-baterie-ogniwo-z-przewodami.html)
 (https://abc-rc.pl/product-pol-8528-Koszyk-na-akumulator-2x-18650-3-7V-Li-Ion-koszyczek-na-baterie-ogniwo-z-przewodami.html) 
 
-	Koszyk z włącznikiem:
-	[https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html](https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html) 
+Koszyk z włącznikiem:
+(https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html)(https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html) 
 
 9. **Stabilizator liniowy 3.3V  min. 0.8A** – 1 sztuka
 
