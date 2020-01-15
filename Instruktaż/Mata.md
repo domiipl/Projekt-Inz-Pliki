@@ -8,6 +8,7 @@
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_1.jpg>
 </p>
+
 **Przykładowy link do sklepu:**
 
 [https://botland.com.pl/pl/moduly-i-zestawy-raspberry-pi-zero/8330-raspberry-pi-zero-w-512mb-ram-wifi-bt-41.html?search_query=pi+zero&results=191](https://botland.com.pl/pl/moduly-i-zestawy-raspberry-pi-zero/8330-raspberry-pi-zero-w-512mb-ram-wifi-bt-41.html?search_query=pi+zero&results=191) 
@@ -18,6 +19,7 @@
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_2.jpg>
 </p>
+
 **Przykładowy link do sklepu:** 
 
 [9cm x 15cm](https://www.gotronik.pl/uniwersalna-plytka-drukowana-pcb-9x15cm-1836-otworow-pol-kontaktowych-p-1273.html)
@@ -43,6 +45,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_3.png>
 </p>
+
 **Przykładowy link do sklepu:**
 
 [https://abc-rc.pl/product-pol-6839-Elektronika-Stabilizator-L7805CV-5V-1-5A-obudowa-TO-220.html](https://abc-rc.pl/product-pol-6839-Elektronika-Stabilizator-L7805CV-5V-1-5A-obudowa-TO-220.html)
@@ -68,6 +71,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_5.jpg>
 </p>
+
 **Przykładowy link do sklepu:** 
 
 [https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin)
@@ -76,6 +80,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_6.jpg>
 </p>
+
 **Przykładowy link do sklepu:**
 
 [https://botland.com.pl/pl/tact-switch/11138-tact-switch-12x12mm-z-nasadka-kwadrat-czarny-5szt.html?search_query=przycisk+tact&results=45](https://botland.com.pl/pl/tact-switch/11138-tact-switch-12x12mm-z-nasadka-kwadrat-czarny-5szt.html?search_query=przycisk+tact&results=45) 
