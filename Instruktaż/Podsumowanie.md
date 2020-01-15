@@ -1,4 +1,4 @@
-# 6. **Podsumowanie**
+# 5. **Podsumowanie**
 
 Dotarliśmy do końca naszego poradnika. Mamy nadzieję, że spodobał się wam nasz projekt i nie mieliście większych problemów podczas budowy. Poniżej zamieścimy jeszcze listę dodatkowych pomysłów, których nie udało nam się zrealizować.
 
