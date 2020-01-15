@@ -13,3 +13,9 @@ Dzielą się one na:
 * Instruktaż - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
 
 Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Powodzenia!
+
+Chcielibyśmy tutaj jeszczę dodać, że wykonując projekt trzeba liczyć się z pewnymi wydatkami.
+Orientacyjne koszty w styczniu 2020:
+* **Robot** -
+* **Mata** - 
+* **Płytki PCB** - 
