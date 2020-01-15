@@ -9,4 +9,5 @@ Dzielą się one na:
 * Schemat robota - wymagane pliki do zamówienia płytki pcb do robota.
 * Schemat maty - wymagane pliki do zamówienia płytki pcb do robota.
 * Instruktaż - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
+
 Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Powodzenia!
