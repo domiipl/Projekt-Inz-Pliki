@@ -196,11 +196,15 @@ Cały, gotowy do wgrania kod do robota znajdziesz pod tym linkiem:
 
 [Kod do robota](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Kod%20-%20robot/Robot.ino)
 
-Pobierz plik z kodem i otwórz go we wspomnianym wcześniej Arduino IDE. Następnie podłącz robota do swojego komputera. Mając otwarty plik z kodem w IDE oraz podłączonego robota, wciśnij ikonę strzałki w programie i poczekaj aż kod zostanie wgrany do robota.
+**Instalacja kodu**
+
+Pobierz plik z kodem i otwórz go w Arduino IDE. Następnie podłącz robota do swojego komputera. Mając otwarty plik z kodem w IDE oraz podłączonego robota, wciśnij ikonę strzałki w programie i poczekaj aż kod zostanie wgrany do robota.
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_29.png>
 
 A jeśli interesuje Cię co się w tym kodzie znajduje, poniżej opiszę kod krok po kroku.
+
+**Opis kodu**
 
 Zacznijmy od dołączenia odpowiedniej biblioteki, która odpowiedzialna będzie za obsługę ESP8266.
 ```
