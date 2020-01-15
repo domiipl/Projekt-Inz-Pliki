@@ -19,3 +19,10 @@ Orientacyjne koszty na dzień 16 stycznia 2020:
 * **Robot** -
 * **Mata** - 
 * **Płytki PCB** - 
+
+Zdjęcia jak mniej więcej powinny wyglądać produkty na końcu budowy.
+**Robot**
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_0.jpg width="50%" height="50%">
+
+**Mata**
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png width="50%" height="50%">
