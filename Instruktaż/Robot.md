@@ -1,12 +1,12 @@
 # 2. **Robot.**
 
-![image alt text](image_0.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_0.jpg>
 
 ### **Lista wymaganych materiałów.**
 
 1. **Chassis Rectangle 2WD 2-kołowe podwozie robota z napędem** – 1 sztuka 
 
-![image alt text](image_1.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_1.jpg>
 
 Przezroczysta platforma do budowy robota. W zestawie znajdują się dwa silniki prądu stałego z kołami o średnicy 65 mm. W części przedniej podporę stanowi metalowe koło obrotowe. Elementy podwozia są zrobione z akrylu, posiadają otwory montażowe pozwalające zamontować różnego rodzaju sensory czy kontrolery.
 
@@ -36,19 +36,19 @@ Przykładowy link do sklepu:
 
 2. **Silnik DC z przekładnią 1:48** – 2 sztuki (zawarte w zestawie z podwoziem)
 
-![image alt text](image_2.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_2.jpg>
 
 Unikalna jednostka napędowa do Twojego robota. Silnik prądu stałego z przekładnią 1:48 zapewni wspaniałe osiągi dla Twojego robota. Dwustronna oś pozwala zamontować koło z oponą z dowolnej strony. 
 
 3. **Koło plastikowe z oponą 65/25 mm** – 2 sztuki (zawarte w zestawie z podwoziem)
 
-![image alt text](image_3.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_3.jpg>
 
 Doskonała ochrona przed aquaplaningiem. Krótka droga hamowania. Bardzo dobra przyczepność na zakrętach. Niski poziom hałasu przez cały okres eksploatacji opony.
 
 4. **Moduł dwukanałowego sterownika silników z L298N**– 1 sztuka
 
-![image alt text](image_4.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_4.jpg>
 
 Umożliwia on sterowanie jednocześnie dwóch silników DC lub jednego silnika krokowego. Kontroler ten pozwala ustawić stałą (pełną) prędkość obrotu kół, lub kontrolować ją sygnałem PWM.
 
@@ -60,7 +60,7 @@ Przykładowy link do sklepu:
 
 5. **Moduł WiFi NodeMCU V3 LoLin ESP-12E(Arduino)** – 1 sztuka
 
-![image alt text](image_5.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_5.jpg>
 
 Przykładowy link do sklepu:
 
@@ -70,7 +70,7 @@ Przykładowy link do sklepu:
 
 6. **Kondensator 100uF 16V lub więcej**- 1 sztuka
 
-![image alt text](image_6.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.jpg>
 
 Przykładowy link do sklepu:
 
@@ -80,7 +80,7 @@ Przykładowy link do sklepu:
 
 7. **Dwupozycyjny przełącznik MTS-102** – 1 sztuka
 
-![image alt text](image_7.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_7.jpg>
 
 Przełącznik dźwigniowy, dwupozycyjny, jednosekcyjny, MTS-1.
 
@@ -98,7 +98,7 @@ Przykładowy link do sklepu:
 
 8. **Koszyk na dwa ogniwa 18650 2S**– 1 sztuka
 
-![image alt text](image_8.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_8.jpg>
 
 Łączy w szereg dwa ogniwa 18650. Daje to od ~7.0 do 8.4 V w zależności od naładowania ogniw. Długi 30-centymetrowy kabel daje się ładnie układać. 
 
@@ -113,7 +113,7 @@ Przykładowy link do sklepu:
 
 9. **Stabilizator liniowy 3.3V  min. 0.8A** – 1 sztuka
 
-![image alt text](image_9.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_9.jpg>
 
 Przykładowy link do sklepu:
 
@@ -134,35 +134,35 @@ Zdejmujemy najpierw mały kawałek izolacji na kabelkach - około 1 do 2mm, moż
 Następnie potrzebujemy rozgrzać lutownicę, jeżeli posiadasz zwykłą kolbową - dotknij grotu cyną, jeśli będzie się topić to lutownica jest wystarczająco nagrzana, jeśli jednak posiadasz lutownicę z możliwością regulacji temperatury - ustaw ją w okolicach 400-450 stopni.
 
 Na blaszkę w silniku nakładamy odrobinę cyny.
-![image alt text](image_10.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_10.png>
 
 Odsłonięty kabel przykładamy do blaszki silnika - kolor kabelka jest obecnie nieistotny, polaryzację możemy zmienić później w kodzie robota. 
-![image alt text](image_11.png) Przykładamy rozgrzaną lutownicę do odsłoniętego kabelka i nakładamy cynę tak, aby rozgrzała cynę na blaszce i abyśmy mogli przełożyć kabelek przez dziurkę i pokryć go cyną. Oczywiście nie powinieneś ruszać kabelkiem w trakcie lutowania. Po krótkiej chwili lut zastygnie i połączenie będzie gotowe. Powtarzamy tą czynność dla reszty kabelków.
-![image alt text](image_12.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_11.png> Przykładamy rozgrzaną lutownicę do odsłoniętego kabelka i nakładamy cynę tak, aby rozgrzała cynę na blaszce i abyśmy mogli przełożyć kabelek przez dziurkę i pokryć go cyną. Oczywiście nie powinieneś ruszać kabelkiem w trakcie lutowania. Po krótkiej chwili lut zastygnie i połączenie będzie gotowe. Powtarzamy tą czynność dla reszty kabelków.
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_12.png>
 
 Jeśli korzystasz z koszyka na ogniwa, które podaliśmy w liście części, prawdopodobnie nie będzie musiał lutować kabelków. Jeśli jednak koszyk nie miałby kabli lub miałbyś inny koszyk na baterie, powtórz powyższe czynności.
 
 **Lutowanie włącznika**
 
-Istotnym jest jeszcze dolutowanie przycisku włączenia/wyłączenia, bez tego nasz robot się nie uruchomi. Łapiemy za koszyk na ogniwo i ucinamy czarny kabelek mniej więcej w połowie. Teraz musimy jeszcze zdjąć kawałek izolacji na końcu kabelka od koszyka oraz z obu stron na uciętym kawałku kabelka. ![image alt text](image_13.png)
+Istotnym jest jeszcze dolutowanie przycisku włączenia/wyłączenia, bez tego nasz robot się nie uruchomi. Łapiemy za koszyk na ogniwo i ucinamy czarny kabelek mniej więcej w połowie. Teraz musimy jeszcze zdjąć kawałek izolacji na końcu kabelka od koszyka oraz z obu stron na uciętym kawałku kabelka. <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_13.png>
 
 Następnie przechodzimy do lutowania.
 
-![image alt text](image_14.png) 
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_14.png>
 
 Kabelek, który został odcięty lutujemy do blaszki w  miejscu, w którym znajduje się "I" na przycisku, a w miejscu “O” powinniśmy dolutować czarny kabel, który wychodzi od koszyka na ogniwa. “I” oznacza włączony, a “O” wyłączony.
 
-![image alt text](image_15.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_15.png>
 
-![image alt text](image_16.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_16.png>
 
 Po zakończonym lutowaniu dobrze jest wgrać kod do robota, tak dla wygody. Opis jak to zrobić znajdziesz w kolejnym dziale nazwanym "Kod do robota".
 
 **Przygotowanie podwozia**
 
-Musimy odpowiednio wywiercić otwory w podwoziu, tak aby móc zamontować części w odpowiednich miejscach. Przykładamy koszyki od akumulatorów i zaznaczamy markerem miejsca, w których następnie wiercimy otwory. ![image alt text](image_17.png)
+Musimy odpowiednio wywiercić otwory w podwoziu, tak aby móc zamontować części w odpowiednich miejscach. Przykładamy koszyki od akumulatorów i zaznaczamy markerem miejsca, w których następnie wiercimy otwory. <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_17.png>
 
-![image alt text](image_18.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_18.png>
 
 Do wiercenia używamy wiertła 3mm. 
 
@@ -170,27 +170,27 @@ Czynności powtarzamy dla kontrolera DC.
 
 Na koniec odklejamy jeszcze folię zabezpieczającą podwozie.
 
-![image alt text](image_19.png)![image alt text](image_20.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_19.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_20.png>
 
 **Montaż części**
 
 Łapiemy za śrubokręt krzyżakowy oraz śrubki i przykręcamy do podwozia silniki w uchwytach montażowych.
 
-![image alt text](image_21.png)![image alt text](image_22.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_21.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_22.png>
 
-![image alt text](image_23.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_23.png>
 
 Następnie montujemy części, dla których wywierciliśmy otwory w punkcie powyżej, czyli kontroler DC oraz koszyk na ogniwa.
 
-![image alt text](image_24.png)![image alt text](image_25.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_24.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_25.png>
 
 Przykręcamy również koło obrotowe, dla którego zrobiono miejsca na przodzie podwozia.
 
-![image alt text](image_26.png)![image alt text](image_27.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_26.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_27.png>
 
 Po zamontowaniu wszystkich części, polecamy użyć pistoletu na klej i zakleić koło obrotowe. Dzięki temu, robot będzie bardziej stabilny podczas jazdy. Uważaj tylko żeby przyklejone koło było ustawione prosto, inaczej robot będzie niepotrzebnie skręcał w trakcie jazdy.
 
-![image alt text](image_28.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_28.png>
 
 **Połączenie części**
 
@@ -204,7 +204,7 @@ Cały, gotowy do wgrania kod do robota znajdziesz pod tym linkiem:
 
 Pobierz plik z kodem i otwórz go we wspomnianym wcześniej Arduino IDE. Następnie podłącz robota do swojego komputera. Mając otwarty plik z kodem w IDE oraz podłączonego robota, wciśnij ikonę strzałki w programie i poczekaj aż kod zostanie wgrany do robota.
 
-![image alt text](image_29.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_29.png>
 
 A jeśli interesuje Cię co się w tym kodzie znajduje, poniżej opiszę kod krok po kroku.
 
