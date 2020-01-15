@@ -5,9 +5,9 @@
 ### **Lista wymaganych materiałów:**
 
 1. **Raspberry Pi Zero W 512MB RAM - WiFi + BT 4.1** - 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_1.jpg>
-
+</p>
 **Przykładowy link do sklepu:**
 
 [https://botland.com.pl/pl/moduly-i-zestawy-raspberry-pi-zero/8330-raspberry-pi-zero-w-512mb-ram-wifi-bt-41.html?search_query=pi+zero&results=191](https://botland.com.pl/pl/moduly-i-zestawy-raspberry-pi-zero/8330-raspberry-pi-zero-w-512mb-ram-wifi-bt-41.html?search_query=pi+zero&results=191) 
@@ -15,9 +15,9 @@
 [https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/12659-wtyk-goldpin-2x20-prosty-raster-254mm.html](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/12659-wtyk-goldpin-2x20-prosty-raster-254mm.html) 
 
 2. **Płytka uniwersalna:**
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_2.jpg>
-
+</p>
 **Przykładowy link do sklepu:** 
 
 [9cm x 15cm](https://www.gotronik.pl/uniwersalna-plytka-drukowana-pcb-9x15cm-1836-otworow-pol-kontaktowych-p-1273.html)
@@ -40,9 +40,9 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
  
 
 4. **Zasilanie do RPi - L7805CV** - 1 sztuka.
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_3.png>
-
+</p>
 **Przykładowy link do sklepu:**
 
 [https://abc-rc.pl/product-pol-6839-Elektronika-Stabilizator-L7805CV-5V-1-5A-obudowa-TO-220.html](https://abc-rc.pl/product-pol-6839-Elektronika-Stabilizator-L7805CV-5V-1-5A-obudowa-TO-220.html)
@@ -55,9 +55,9 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 * Nr katalogowy: SNL7805CV
 
 5. **Baterie - Model: "18650"** - 1 sztuka.
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_4.png>
-
+</p>
 [https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5](https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5)  
 
 [https://www.gotronik.pl/akumulator-li-ion-18650-ogniwo-litowo-jonowe-3400-mah-panasonic-ncr-18650b-p-6931.html](https://www.gotronik.pl/akumulator-li-ion-18650-ogniwo-litowo-jonowe-3400-mah-panasonic-ncr-18650b-p-6931.html)
@@ -65,25 +65,25 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 (same baterie można dużo taniej znaleźć na Allegro lub OLX)
 
 6. **Wtyk goldpin 2x40 prosty raster 2,54mm** - 1 raster powinien wystarczyć. 
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_5.jpg>
-
+</p>
 **Przykładowy link do sklepu:** 
 
 [https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin)
 
 7. **Tact Switch 12x12mm z nasadką**- 18 sztuk
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_6.jpg>
-
+</p>
 **Przykładowy link do sklepu:**
 
 [https://botland.com.pl/pl/tact-switch/11138-tact-switch-12x12mm-z-nasadka-kwadrat-czarny-5szt.html?search_query=przycisk+tact&results=45](https://botland.com.pl/pl/tact-switch/11138-tact-switch-12x12mm-z-nasadka-kwadrat-czarny-5szt.html?search_query=przycisk+tact&results=45) 
 
 8. **Wyświetlacz OLED niebieski graficzny 1,3'' 128x64px I2C v2** - 1 sztuka.
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_7.jpg>
-
+</p>
 * Napięcie pracy: od 3,3 V do 5,0 V
 * Sterownik: SH1106 (dokumentacja)
 * Komunikacja: I2C
