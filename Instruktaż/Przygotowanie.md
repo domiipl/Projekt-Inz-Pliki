@@ -4,7 +4,7 @@ Do utworzenia naszego projektu, będą potrzebne:
 
 **NodeMCU(Arduino)**
 
-![image alt text](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_0.jpg) ![image alt text](image_1.jpg)
+![image alt text](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_0.jpg) ![image alt text](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_1.jpg)
 
 **ESP8266** jest popularnym mikrokontrolerem z wbudowanym WiFi. Dzięki atrakcyjnej cenie i dużym możliwościom stał się bardzo popularny, zwłaszcza w zakresie automatyki domowej. 
 
