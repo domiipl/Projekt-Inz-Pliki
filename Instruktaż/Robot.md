@@ -5,9 +5,9 @@
 ### **Lista wymaganych materiałów.**
 
 1. **Chassis Rectangle 2WD 2-kołowe podwozie robota z napędem** – 1 sztuka 
-
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_1.jpg>
-
+<p align="center">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_1.jpg >
+</p>
 Przezroczysta platforma do budowy robota. W zestawie znajdują się dwa silniki prądu stałego z kołami o średnicy 65 mm. W części przedniej podporę stanowi metalowe koło obrotowe. Elementy podwozia są zrobione z akrylu, posiadają otwory montażowe pozwalające zamontować różnego rodzaju sensory czy kontrolery.
 
 Zestaw zawiera:
@@ -29,21 +29,21 @@ Przykładowy link do sklepu:
 [https://abc-rc.pl/product-pol-7656-Podwozie-robota-2WD-RT-5-210mm-2-silniki-podwozie-Arduino.html](https://abc-rc.pl/product-pol-7656-Podwozie-robota-2WD-RT-5-210mm-2-silniki-podwozie-Arduino.html) 
 
 2. **Silnik DC z przekładnią 1:48** – 2 sztuki (zawarte w zestawie z podwoziem)
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_2.jpg>
-
+</p>
 Unikalna jednostka napędowa do Twojego robota. Silnik prądu stałego z przekładnią 1:48 zapewni wspaniałe osiągi dla Twojego robota. Dwustronna oś pozwala zamontować koło z oponą z dowolnej strony. 
 
 3. **Koło plastikowe z oponą 65/25 mm** – 2 sztuki (zawarte w zestawie z podwoziem)
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_3.jpg>
-
+</p>
 Doskonała ochrona przed aquaplaningiem. Krótka droga hamowania. Bardzo dobra przyczepność na zakrętach. Niski poziom hałasu przez cały okres eksploatacji opony.
 
 4. **Moduł dwukanałowego sterownika silników z L298N**– 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_4.jpg>
-
+</p>
 Umożliwia on sterowanie jednocześnie dwóch silników DC lub jednego silnika krokowego. Kontroler ten pozwala ustawić stałą (pełną) prędkość obrotu kół, lub kontrolować ją sygnałem PWM.
 
 Przykładowy link do sklepu:
@@ -53,9 +53,9 @@ Przykładowy link do sklepu:
 [https://nettigo.pl/products/modul-dwukanalowego-sterownika-silnikow-z-l298n](https://nettigo.pl/products/modul-dwukanalowego-sterownika-silnikow-z-l298n)
 
 5. **Moduł WiFi NodeMCU V3 LoLin ESP-12E(Arduino)** – 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_5.jpg>
-
+</p>
 Przykładowy link do sklepu:
 
 [https://nettigo.pl/products/modul-wifi-nodemcu-v3-lolin-esp-12e](https://nettigo.pl/products/modul-wifi-nodemcu-v3-lolin-esp-12e)
@@ -63,9 +63,9 @@ Przykładowy link do sklepu:
 [https://botland.com.pl/pl/moduly-wifi/8241-modul-wifi-esp8266-nodemcu-v3.html](https://botland.com.pl/pl/moduly-wifi/8241-modul-wifi-esp8266-nodemcu-v3.html) 
 
 6. **Kondensator 100uF 16V lub więcej** - 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.png>
-
+</p>
 Przykładowy link do sklepu:
 
 [https://botland.com.pl/pl/kondensatory-elektrolityczne-tht/898-kondensator-elektrolityczny-100uf35v-6x12mm-105c-tht-10szt.html](https://botland.com.pl/pl/kondensatory-elektrolityczne-tht/898-kondensator-elektrolityczny-100uf35v-6x12mm-105c-tht-10szt.html)
@@ -73,9 +73,9 @@ Przykładowy link do sklepu:
 [https://nettigo.pl/products/zestaw-5-kondensatorow-elektrolitycznych-100-f-35v](https://nettigo.pl/products/zestaw-5-kondensatorow-elektrolitycznych-100-f-35v) 
 
 7. **Dwupozycyjny przełącznik MTS-102** – 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_7.jpg>
-
+</p>
 Przełącznik dźwigniowy, dwupozycyjny, jednosekcyjny, MTS-1.
 
 Dane techniczne:
@@ -91,9 +91,9 @@ Przykładowy link do sklepu:
 [https://botland.com.pl/pl/przelaczniki-z-dzwignia/2478-przelacznik-dzwigniowy-on-on-250v3a.html](https://botland.com.pl/pl/przelaczniki-z-dzwignia/2478-przelacznik-dzwigniowy-on-on-250v3a.html)
 
 8. **Koszyk na dwa ogniwa 18650 2S**– 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_8.jpg>
-
+</p>
 Łączy w szereg dwa ogniwa 18650. Daje to od ~7.0 do 8.4 V w zależności od naładowania ogniw. Długi 30-centymetrowy kabel daje się ładnie układać. 
 
 Przykładowy link do sklepu:
@@ -106,9 +106,9 @@ Koszyk z włącznikiem:
 [https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html](https://abc-rc.pl/product-pol-12801-Koszyk-na-akumulator-2x-18650-z-wylacznikiem-koszyczek-z-pokrywa-i-przewodami.html) 
 
 9. **Stabilizator liniowy 3.3V  min. 0.8A** – 1 sztuka
-
+<p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_9.jpg>
-
+</p>
 Przykładowy link do sklepu:
 
 [https://nettigo.pl/products/stabilizator-liniowy-3-3v-0-8a](https://nettigo.pl/products/stabilizator-liniowy-3-3v-0-8a)
