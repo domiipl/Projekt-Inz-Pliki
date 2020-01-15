@@ -307,7 +307,7 @@ function drawActualArrows() {
 
 function pushExtraButton(i) {
   console.log("Extra button(" + i + ") pushed")
-  if(i == 0) {
+  if(i == 1) {
     if(moveMode == 0) {
       moveMode = 1
       oled.fillRect(0, 0, 128, 64, 0)
@@ -326,7 +326,7 @@ function pushExtraButton(i) {
       ]
     }
   }
-  else if(i == 1) { //start button
+  else if(i == 0) { //start button
     let s = ''
     for(let i in values) {
       for(let j in values[i]) {
