@@ -13,8 +13,8 @@ RestartSec=10
 StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=screenless-coding
-#User=<alternate user>
-#Group=<alternate group>
+User=root
+Group=root
 #Environment=NODE_ENV=production PORT=1337
  
 [Install]
