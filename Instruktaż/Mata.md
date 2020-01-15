@@ -76,7 +76,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 7. **Tact Switch 12x12mm z nasadką**- 18 sztuk
 
-** **![image alt text](image_6.jpg)
+![image alt text](image_6.jpg)
 
 **Przykładowy link do sklepu:**
 
