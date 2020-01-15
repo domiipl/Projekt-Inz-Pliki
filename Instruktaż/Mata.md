@@ -1,12 +1,12 @@
 # 3. **Mata sterująca**
 
-![image alt text](image_0.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png>
 
 ### **Lista wymaganych materiałów:**
 
 1. **Raspberry Pi Zero W 512MB RAM - WiFi + BT 4.1** - 1 sztuka
 
-![image alt text](image_1.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_1.jpg>
 
 **Przykładowy link do sklepu:**
 
@@ -16,7 +16,7 @@
 
 2. **Płytka uniwersalna:**
 
-![image alt text](image_2.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_2.jpg>
 
 **Przykładowy link do sklepu:** 
 
@@ -41,7 +41,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 4. **Zasilanie do RPi - L7805CV** - 1 sztuka.
 
-![image alt text](image_3.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_3.png>
 
 **Przykładowy link do sklepu:**
 
@@ -56,7 +56,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 5. **Baterie - Model: "18650"** - 1 sztuka.
 
-![image alt text](image_4.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_4.png>
 
 [https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5](https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5)  
 
@@ -66,17 +66,15 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 6. **Wtyk goldpin 2x40 prosty raster 2,54mm** - 1 raster powinien wystarczyć. 
 
-![image alt text](image_5.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_5.jpg>
 
 **Przykładowy link do sklepu:** 
 
-[https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin)[ ](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin)
-
- 
+[https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin](https://botland.com.pl/pl/gniazda-szpilkowe-goldpin/204-wtyk-goldpin-2x40-prosty-raster-254mm.html?results=76&search_query=goldpin)
 
 7. **Tact Switch 12x12mm z nasadką**- 18 sztuk
 
-![image alt text](image_6.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_6.jpg>
 
 **Przykładowy link do sklepu:**
 
@@ -84,7 +82,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 8. **Wyświetlacz OLED niebieski graficzny 1,3'' 128x64px I2C v2** - 1 sztuka.
 
-![image alt text](image_7.jpg)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_7.jpg>
 
 * Napięcie pracy: od 3,3 V do 5,0 V
 * Sterownik: SH1106 (dokumentacja)
@@ -105,69 +103,69 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 Na wstępie chciałbym zaznaczyć, że uniwersalne płytki PCB dają nam ogromną swobodę w tym jak nasz efekt końcowy będzie się prezentować. 
 
-Przed rozpoczęciem budowy "maty" najlepiej zapoznać się z schematem i wstępnie zaplanować sobie rozkład połączeń na uniwersalnej płytce. Porządek to podstawa, ponieważ później pozwoli nam to na łatwe modyfikacje i naprawy ewentualnych błędów.  ![image alt text](image_8.png)
+Przed rozpoczęciem budowy "maty" najlepiej zapoznać się z schematem i wstępnie zaplanować sobie rozkład połączeń na uniwersalnej płytce. Porządek to podstawa, ponieważ później pozwoli nam to na łatwe modyfikacje i naprawy ewentualnych błędów.<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_8.png>
 
 Pierwszym krokiem będzie rozkład przycisków S1 - S16. 
 
 Z racji tego, że wybrana płytka jest dosyć dużych rozmiarów, bo ma aż 9cm na 15cm, to możemy pozwolić sobie na spore odstępy między przyciskami tak jak na poniższym zdjęciu (oczywiście każdy może mieć większe bądź mniejsze odstępy, to już według osobistych preferencji):
 
-![image alt text](image_9.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_9.png>
 
 Następnie możemy dodać kolejne dwa przyciski (S17 i S18), które będą przyciskami funkcyjnymi: 
 
- ![image alt text](image_10.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_10.png>
 
 Teraz gdy już mamy zaplanowane rozłożenie przycisków możemy przejść do przypomnienia sobie schematu samej klawiatury jak i samego przycisku co ułatwi nam lutowanie. 
 
 - Klawiatura:
-![image alt text](image_11.png)
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_11.png>
 
 - Przycisk: 
 
- ![image alt text](image_12.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_12.png>
 
 Podstawową rzeczą jaką powinniśmy zauważyć patrząc na schemat przycisku jest fakt, że nóżki 3 i 4 oraz 1 i 2 są ze sobą połączone, więc wciśnięcie przycisku powoduje zamknięcie obwodu między parami nóżek 1,2 i 3,4. Jest to o tyle istotny fakt, że podczas lutowania możemy zaoszczędzić bardzo dużo miejsca jak i czasu poświęconego na pracę. Przejdźmy zatem do lutowania: 
 
-![image alt text](image_13.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_13.png>
 
 Na zdjęciu powyżej widzimy pierwszą zlutowaną kolumnę. Oczywiście można było zrobić to inaczej, ale tak jak wspominałem, na płytkach uniwersalnych mamy pełną dowolność.
 
 Poniżej zdjęcia będą przedstawiać postęp w lutowaniu kolumn i wierszy między przyciskami. 
 
-![image alt text](image_14.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_14.png>
 
-![image alt text](image_15.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_15.png>
 
-![image alt text](image_16.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_16.png>
 
-![image alt text](image_17.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_17.png>
 
-![image alt text](image_18.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_18.png>
 
-![image alt text](image_19.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_19.png>
 
 Następnie aby sprawdzić czy wszystko zostało podłączone tak jak należy oraz udało nam się uniknąć "zimnych lutów" możemy na szybko podłączyć klawiaturę do np. Arduino i sprawdzić czy działa poprawnie: 
 
-![image alt text](image_20.png) 
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_20.png>
 (Na czerwono są zaznaczone miejsca w których zostały przylutowane kable od kolumn, a nie ma ich na zdjęciu)
 
-
-![image alt text](image_21.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_21.png>
 Powyżej widać klawiaturę podpiętą do Arduino, 
 
 a poniżej widać program oraz wynik na konsoli po naciśnięciu klawiszy. 
 
-![image alt text](image_22.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_22.png>
 
 (Kod do Arduino zostanie udostępniony na GitHubie jako plik [test_klawiatury_4x4](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Kod%20-%20mata/test_klawiatury_4x4.ino))
 
 Po poprawnych wynikach otrzymanych w teście możemy przejść do dodania pinów do klawiatury aby później można było ją podłączyć do RPi Zero. 
 (Nie zastosowałem tutaj kabli przylutowanych na stałe, ponieważ nie miałem odpowiednich pod ręką, a kabelki ze skrętki nie były odpowiednie, ponieważ szybko się łamały i były zbyt sztywne)
 
-![image alt text](image_23.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_23.png>
 
 Powyżej można zauważyć 4 dodatkowe piny obok przycisków funkcyjnych, ponieważ w międzyczasie został przylutowany ekran OLED co będzie widoczne na następnym zdjęciu: 
-![image alt text](image_24.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_24.png>
 
 Po skończonej klawiaturze możemy przejść do zasilania jakiego użyjemy dla naszego Raspberry Pi Zero. 
 
@@ -189,22 +187,22 @@ Do wykonania prostego zasilacza będziemy potrzebowali:
 * oraz opcjonalnie można użyć złącz ARK
 
 Na wstępie mały obrazek z wyjściami dla L7805CV aby wszystko poprawnie podłączyć: 
-![image alt text](image_25.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_25.png>
 
-Następnie schemat całego zasilacza:![image alt text](image_26.png)
+Następnie schemat całego zasilacza:<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_26.png>
 
-![image alt text](image_27.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_27.png>
 
 I końcowy wygląd: 
 
-![image alt text](image_28.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_28.png>
 
 Kolejna część praktycznie skończona, więc możemy przejść do kolejnych testów z udziałem Raspberry Pi Zero i naszego zasilacza. 
 Na wstępie dodam jeszcze, żeby połączyć zasilacz z Raspberry użyłem starej końcówki microUSB z ładowarki która miała jedynie 2 żyły (czerwoną i czarną) przez co łatwiej było podłączyć ją pod zasilacz. 
 
-![image alt text](image_29.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_29.png>
 
-![image alt text](image_30.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_30.png>
 
 Na powyższych zdjęciach widzimy pakiet 3 baterii 18650, dwa multimetry z czego jeden mierzy natężenie między zasilaczem a Raspberry (w stanie spoczynku przy uruchomionym systemie Raspbiana oraz podłączonym ekranie poprzez HDMI pobór wynosił około 290-340mA.)
 
@@ -234,28 +232,28 @@ Wskazówki:
 * Po cięciu brzegi plexi dobrze jest wyrównać papierem ściernym. Ja użyłem 120 i 60
 * Ostatnią wskazówką jest to aby nie ciąć plexi wyrzynarką, przynajmniej mi się to nie udało, ponieważ brzeszczot podczas cięcia uzyskuje wysoką temperaturę i topi plexi.
 
-![image alt text](image_31.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_31.png>
 
-![image alt text](image_32.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_32.png>
 
-![image alt text](image_33.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_33.png>
 
 Do połączenia wszystkich elementów użyłem kleju na gorąco, jest on w zupełności wystarczający do tego stopnia, że jak ktoś się pomyli to praktycznie nie da się po ostygnięciu usunąć go w całości z plexi. 
 
-![image alt text](image_34.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_34.png>
 
 Ostatnim krokiem jest połączenie wszystkich elementów razem za pomocą kabli z końcówkami żeńska-żeńska i zamknięcie całości w obudowie. Z racji tego, że moja obudowa była większa od płytki PCB, to musiałem po bokach dodać dodatkowe wsporniki aby przyczepić płytkę do obudowy. 
 Efekt końcowy po podłączeniu całości i zamontowaniu przełącznika w płytce PCB. 
 
-![image alt text](image_35.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_35.png>
 
-![image alt text](image_36.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_36.png>
 
-![image alt text](image_37.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_37.png>
 
-![image alt text](image_38.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_38.png>
 
-![image alt text](image_39.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_39.png>
 
 ### **Kod do maty**
 
