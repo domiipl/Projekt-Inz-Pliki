@@ -231,6 +231,8 @@ Sprawdzamy teraz czy wszystkie ścieżki wyglądają poprawnie, jeśli tak to zm
 
 **Pistolet do kleju**
 
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_22.jpg width="30%" height="50%">
+
 Zalecane właściwości:
 
 * Moc - 10 W,
@@ -245,6 +247,8 @@ Przykładowy link:
 [https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv](https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv) 
 
 **Lutownica kolbowa**
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_23.jpg width="30%" height="50%">
 
 Zalecane właściwości:
 
