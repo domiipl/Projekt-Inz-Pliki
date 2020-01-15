@@ -147,7 +147,7 @@ var font = require('oled-font-5x7');
 // let ECOL = 19 // 10
 
 let ROWS = [11, 10, 8, 7] // []
-let COLS = [12, 13, 14, 15] // []
+let COLS = [12, 13, 16, 15] // []
 
 let EROWS = [23, 21] // []
 let ECOL = 19 //
