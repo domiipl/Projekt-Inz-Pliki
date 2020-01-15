@@ -121,7 +121,6 @@ let symbols = [
   ]
 ]
 
-//funkcja odpowiadajca za narysowanie w danych współrzędnych danego symbolu
 function drawSymbol(x, y, arr) {
   let tab = []
   for(let i in arr) {
@@ -293,7 +292,6 @@ function releaseButton(i, j) {
   console.log("Button (" + i + ", " + j + ") released")
 }
 
-//funkcja przywracajaca narysowane strzalki - to bede zmieniał
 function drawActualArrows() {
   for(let i in values) {
     for(let j in values[i]) {
