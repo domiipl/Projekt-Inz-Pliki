@@ -1,0 +1,17 @@
+{
+  "name": "sc5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Mata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^5.0.0",
+    "pigpio": "^2.0.1",
+    "rpio": "^1.3.0",
+    "sh1106-js": "0.0.1"
+  }
+}
