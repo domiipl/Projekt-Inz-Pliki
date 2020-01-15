@@ -112,6 +112,8 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 ### **Płytki PCB**
 
+**Schematy**
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png>
 
 ***Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
