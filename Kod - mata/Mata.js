@@ -312,8 +312,8 @@ function pushExtraButton(i) {
       moveMode = 1
       oled.fillRect(0, 0, 128, 64, 0)
       // // sets cursor to x = 1, y = 1
-      oled.setCursor(10, 10);
-      oled.writeString(font, 1, 'Free Drive', 1, true);
+      // oled.setCursor(10, 10);
+      // oled.writeString(font, 1, 'Free Drive', 1, true);
     }
     else {
       moveMode = 0
