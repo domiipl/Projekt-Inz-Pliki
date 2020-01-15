@@ -1,10 +1,10 @@
 var net = require('net')
 let rpio = require('rpio')
-let Oled = require('sh1106-js') 
+let Oled = require('sh1106-js')
 
 let moveMode = 0
-let pressed = { x: 0 , y: 0, state: false } 
-let freeDrive = [ 
+let pressed = { x: 0 , y: 0, state: false }
+let freeDrive = [
   [ "", "", "", "" ],
   [ "", "", "", "" ],
   [ "", "z", "", "" ],
@@ -140,11 +140,17 @@ function drawButtonSymbol(i, j, id) {
 
 var font = require('oled-font-5x7');
 
-let ROWS = [7, 11, 13, 15] // []
-let COLS = [16, 12, 10, 8] // []
+// let ROWS = [7, 11, 13, 15] // []
+// let COLS = [16, 12, 10, 8] // []
+//
+// let EROWS = [21, 23] // [9, 11]
+// let ECOL = 19 // 10
 
-let EROWS = [21, 23] // [9, 11]
-let ECOL = 19 // 10
+let ROWS = [11, 10, 8, 7] // []
+let COLS = [12, 13, 14, 15] // []
+
+let EROWS = [23, 21] // []
+let ECOL = 19 //
 
 let states = ['', 'u', 'd', 'l', 'r']
 
@@ -250,10 +256,20 @@ function pushButton(i, j) {
     drawButtonSymbol(i, j, id)
     console.log("Values after (" + i + "," + j +") press: \n" + values)
   }
+  else if(moveMode == 1) {
+    if(pressed.state == false) {
+      pressed.x = i
+      pressed.y = j
+      pressed.state = true
+      if(freeDrive[i][j] != "") {
+        client.write(freeDrive[i][j])
+      }
+    }
+  }
 }
 
 function pressedButton(i, j) {
-  if(moveMode == 1) {
+  if(moveMode == 1 && false) {
     if(pressed.x == i && pressed.y == j) {
       if(freeDrive[i][j] != "") {
         client.write(freeDrive[i][j])
@@ -270,6 +286,9 @@ function pressedButton(i, j) {
 function releaseButton(i, j) {
   if(pressed.x == i && pressed.y == j && pressed.state) {
     pressed.state = false
+    if(freeDrive[i][j] != "") {
+      client.write("s")
+    }
   }
   console.log("Button (" + i + ", " + j + ") released")
 }
@@ -299,7 +318,12 @@ function pushExtraButton(i) {
     else {
       moveMode = 0
       oled.fillRect(0, 0, 128, 64, 0)
-      drawActualArrows()
+      values = [
+        ['', '', '', ''],
+        ['', '', '', ''],
+        ['', '', '', ''],
+        ['', '', '', '']
+      ]
     }
   }
   else if(i == 1) { //start button
