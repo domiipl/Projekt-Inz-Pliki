@@ -1,4 +1,4 @@
-# Kolejność rozdziałów
+# Kolejność czytania rozdziałów
 1. Przygotowanie
 2. Robot
 3. Mata
