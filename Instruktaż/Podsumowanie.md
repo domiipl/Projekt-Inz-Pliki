@@ -2,7 +2,7 @@
 
 Dotarliśmy do końca naszego poradnika. Mamy nadzieję, że spodobał się wam nasz projekt i nie mieliście większych problemów podczas budowy. Poniżej zamieścimy jeszcze listę dodatkowych pomysłów, których nie udało nam się zrealizować.
 
-### **Dodatkowe pomysły**
+## **Dodatkowe pomysły**
 
 * **Obudowa robota** - jeśli czujesz, że Twój robot potrzebowałby jednak trochę lepiej wyglądać, możesz zająć się też obudową. Na thingiverse.com jest model podstawy robota, na podstawie którego możesz stworzyć własną obudowę. Nie obejdzie się niestety bez znajomości programu do modelowania np. Autodesk Fusion 360
 
