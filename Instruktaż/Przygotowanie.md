@@ -197,9 +197,9 @@ Teraz przykładamy schemat do płytki i wiercimy dziurki w rogach schematu na p�
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_16.png>
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_17.png width="60%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_17.png width="80%" height="30%">
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_18.png width="60%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_18.png width="80%" height="30%">
 
 **Czyszczenie powierzchni**
 
@@ -225,7 +225,8 @@ W tym miejscu powinieneś założyć swoje gumowe rękawiczki. Sam roztwór nie 
 Przejdziemy teraz do utworzenia roztworu, który wytrawi miedź z płytki. Przygotuj 100 gramów kwasu B327 oraz pół litra wody (takie są proporcje roztworu), najlepiej o temperaturze 50 stopni, jeżeli nie jesteś w stanie kontrolować temperatury wody możesz ostatecznie użyć wrzątku. Zalewasz kwas ciepłą wodą i mieszasz wszystko do momentu, w którym kryształki kwasu się rozpuszczą.
 
 Do utworzonego roztworu wrzucamy naszą płytkę. Całość najlepiej umieścić w płaskim pudełku. Kiedy płytka znajduje się w środku, potrząsaj lekko pudełkiem, tak aby mieszanka była cały czas w ruchu, ponieważ to przyspiesza proces trawienia. Całość powinna trwać od 5 do 10 minut. Po upływie około 3 minut, obróć płytkę, aby zobaczyć jak proces trawienia przebiega z drugiej strony.
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_19.png width="70%" height="70%">
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_19.png width="80%" height="70%">
 
 Kiedy miedź zostanie usunięta z miejsc, w których nie ma toneru, proces trawienia można uznać za zakończony. Wyciągamy płytkę z mieszanki. Następnie płytkę wycieramy i myjemy pod bieżącą wodą.
 
