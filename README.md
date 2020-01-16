@@ -29,3 +29,6 @@ Zdjęcia końcowe produktów:
 **Mata**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png width="50%" height="50%">
+
+W razie problemów, możesz kontaktować się z nami pod tym adresem e-mail:
+## **Test@gmail.com**
