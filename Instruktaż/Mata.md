@@ -1,4 +1,4 @@
-# 3. **Mata sterująca**
+# 4. **Mata sterująca**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png>
 
