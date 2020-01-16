@@ -83,27 +83,26 @@ Niestety, w chwili pisania poradnika, malinka dostępna jest tylko na botlandzie
 ### **Instalacja Node.js**
 
 Zaczynamy od wybrania odpowiedniej wersji Node’a, w naszym przypadku jest to wersja [v8.9.1](https://nodejs.org/dist/v8.9.1/?fbclid=IwAR22xwn0nsIXQ3rgm9jB1sXLJzWi_KS5BXUQsl9sqw9HL_lsmz8PQPp63Fs) i wybieramy plik "linux-armv6l", ponieważ używamy Raspberry PI Zero. Łączymy się z malinką za pomocą SSH i wpisujemy daną komendę, która pobierze nam odpowiednią wersję Node’a.
-
-- curl -o node-v8.9.1-linux-armv6l.tar.gz https://nodejs.org/dist/v8.9.1/node-v8.9.1-linux-armv6l.tar.gz
-
+```
+curl -o node-v8.9.1-linux-armv6l.tar.gz https://nodejs.org/dist/v8.9.1/node-v8.9.1-linux-armv6l.tar.gz
+```
 Kiedy już zakończymy pobieranie, musimy wypakować pliki używając do tego komendy
-
-- tar -xzf node-v8.9.1-linux-armv6l.tar.gz
-
+```
+tar -xzf node-v8.9.1-linux-armv6l.tar.gz
+```
 Utworzy się nowy folder zawierający wszystkie potrzebne pliki do Node.js oraz Node Package Manager (NPM). Następnie wpisujemy komendę, która skopiuje wszystkie wypakowane pliki do odpowiedniego miejsca.
-
-- sudo cp -r node-v8.9.1-linux-armv6l/* /usr/local/
-
+```
+sudo cp -r node-v8.9.1-linux-armv6l/* /usr/local/
+```
 Po wykonaniu tej komendy, wszystko powinno być na swoim miejscu. W tym momencie możesz już zacząć używać Node.js. Dla pewności, można jeszcze wykonać komendę 
-
-- node -v
-
-- npm -v
-
+```
+node -v
+npm -v
+```
 Warto tutaj dodać, że wspomniany wcześniej NPM opiera się mocno o dostęp do Gita. Domyślnie Linuxowy Raspian nie nie ma zainstalowanego dostępu do Gita, dlatego warto jeszcze wykorzystać poniższą komendę.
-
-- sudo apt-get install git
-
+```
+sudo apt-get install git
+```
 W tym momencie wszystko powinno być skonfigurowane i gotowe do użytku.
 
 ## **Części do budowy robota oraz maty**
