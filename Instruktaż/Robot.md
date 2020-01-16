@@ -2,7 +2,7 @@
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_0.jpg>
 
-### **Lista wymaganych materiałów.**
+## **Lista wymaganych materiałów.**
 
 1. **Chassis Rectangle 2WD 2-kołowe podwozie robota z napędem** – 1 sztuka 
 <p align="center">
@@ -115,7 +115,7 @@ Przykładowy link do sklepu:
 
 [https://botland.com.pl/pl/regulatory-napiecia/7685-stabilizator-ldo-33v-ld1117v33-tht-to220.html](https://botland.com.pl/pl/regulatory-napiecia/7685-stabilizator-ldo-33v-ld1117v33-tht-to220.html) 
 
-### **Budowa Robota**
+## **Budowa Robota**
 
 Będąc odpowiednio przygotowanym, możemy przejść do budowy naszego robota. 
 
@@ -233,7 +233,7 @@ Oczywiście możesz piny podłączyć w inny, np. bardziej uporządkowany sposó
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_30.png >
 
-### **Kod do robota**
+## **Kod do robota**
 
 Cały, gotowy do wgrania kod do robota znajdziesz pod tym linkiem:
 
