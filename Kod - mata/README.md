@@ -1,5 +1,5 @@
 # Krótki opis plików
-**Mata.js** - Plik z kodem, który wgrywamy na matę za pomocą odpowiednich komend. Pozwala korzystać z maty do sterowania robotem.
+**Mata.js** - Plik z kodem, który wgrywamy na matę za pomocą odpowiednich komend. Pozwala korzystać z maty do sterowania robotem. Opis jak wgrać kod do maty znajdziesz w poradniku.
 
 **packages.json** - Wymagany plik podczas instalacji pliku z kodem. Zawiera potrzebne biblioteki.
 
