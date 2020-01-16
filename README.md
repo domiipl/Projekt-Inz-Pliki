@@ -1,8 +1,7 @@
 # Wstęp i informacje o projekcie
 Cześć, jesteśmy grupą studentów, którzy na swój projekt inżynierski postanowili stworzyć niedużego robota sterowanego za pomocą interaktywnej maty.
 
-Robot sterowany jest za pomocą sekwencji, które wprowadzamy na wyżej wymienionej macie. Możemy dawać mu proste komendy pozwalające na poruszanie się. Alternatywnym trybem jest jazda swobodna pozwalająca na sterowanie robotem w czasie rzeczywistym. Mata jest urządzeniem posiadającym układ przycisków 4x4 i ekran pokazujący aktualnie wpisywaną sekwencję.
-Posiadając podstawową wiedzę na temat programowania i elektroniki, będziesz mógł skonstruować taki zestaw sam, w zaciszu swojego domu. 
+Robot sterowany jest za pomocą sekwencji, które wprowadzamy na wyżej wymienionej macie. Możemy dawać mu proste komendy pozwalające na poruszanie się. Alternatywnym trybem jest jazda swobodna pozwalająca na sterowanie robotem w czasie rzeczywistym. Mata jest urządzeniem posiadającym układ przycisków 4x4 i ekran pokazujący aktualnie wpisywaną sekwencję. Bardziej szczegółowe informacje na temat samego projektu znajdziesz w samym poradniku. Posiadając podstawową wiedzę na temat programowania i elektroniki, będziesz mógł skonstruować taki zestaw sam, w zaciszu swojego domu. 
 
 Repozytorium jest podzielone na pięć folderów. Każdy z nich odpowiada za osobną część naszego projektu.
 Dzielą się one na:
@@ -12,7 +11,7 @@ Dzielą się one na:
 * **Schemat maty** - wymagane pliki do zamówienia płytki pcb do robota.
 * **Instruktaż** - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
 
-Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Bardziej szczegółowe informacje na temat samego projektu znajdziesz w samym poradniku w folderze "Instruktaż".
+Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Spis treści oraz kolejność czytania rozdziałów znajdziesz w pliku README w folderze "Instruktaż".
 
 Powodzenia!
 
