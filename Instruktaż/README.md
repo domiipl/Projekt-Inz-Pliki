@@ -14,7 +14,9 @@
       - Instalacja Node.js
     - Części do budowy robota oraz maty
     - Płytki PCB
-      - Przygotowanie
+      - Schematy
+      - Wymagane materiały
+      - Tworzenie płytki
     - Pistolet do kleju
     - Lutownica kolbowa
     - Śrubokręt i śrubki
@@ -27,6 +29,7 @@
     - Budowa maty
       - Obudowa maty
     - Kod do maty
+      - Instalacja kodu
 4. Połączenie
     - Opis działania
 5. Podsumowanie
