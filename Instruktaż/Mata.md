@@ -6,7 +6,7 @@
 
 1. **Raspberry Pi Zero W 512MB RAM - WiFi + BT 4.1** - 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_1.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_1.jpg width="30%" height="30%">
 </p>
 
 **Przykładowy link do sklepu:**
@@ -17,7 +17,7 @@
 
 2. **Płytka uniwersalna:**
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_2.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_2.jpg width="30%" height="30%">
 </p>
 
 **Przykładowy link do sklepu:** 
@@ -43,7 +43,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 4. **Zasilanie do RPi - L7805CV** - 1 sztuka.
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_3.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_3.png width="30%" height="30%">
 </p>
 
 **Przykładowy link do sklepu:**
@@ -59,7 +59,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 5. **Baterie - Model: "18650"** - 1 sztuka.
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_4.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_4.png width="30%" height="30%">
 </p>
 [https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5](https://botland.com.pl/pl/koszyki-na-baterie/5241-koszyk-na-3-baterie-typu-18650.html?search_query=koszyk+18650&results=5)  
 
@@ -69,7 +69,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 6. **Wtyk goldpin 2x40 prosty raster 2,54mm** - 1 raster powinien wystarczyć. 
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_5.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_5.jpg width="30%" height="30%">
 </p>
 
 **Przykładowy link do sklepu:** 
@@ -78,7 +78,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 7. **Tact Switch 12x12mm z nasadką**- 18 sztuk
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_6.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_6.jpg width="30%" height="30%">
 </p>
 
 **Przykładowy link do sklepu:**
@@ -87,7 +87,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 8. **Wyświetlacz OLED niebieski graficzny 1,3'' 128x64px I2C v2** - 1 sztuka.
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_7.jpg>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_7.jpg width="30%" height="30%">
 </p>
 * Napięcie pracy: od 3,3 V do 5,0 V
 * Sterownik: SH1106 (dokumentacja)
@@ -108,7 +108,9 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 Na wstępie chciałbym zaznaczyć, że uniwersalne płytki PCB dają nam ogromną swobodę w tym jak nasz efekt końcowy będzie się prezentować. 
 
-Przed rozpoczęciem budowy "maty" najlepiej zapoznać się z schematem i wstępnie zaplanować sobie rozkład połączeń na uniwersalnej płytce. Porządek to podstawa, ponieważ później pozwoli nam to na łatwe modyfikacje i naprawy ewentualnych błędów.<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_8.png>
+Przed rozpoczęciem budowy "maty" najlepiej zapoznać się z schematem i wstępnie zaplanować sobie rozkład połączeń na uniwersalnej płytce. Porządek to podstawa, ponieważ później pozwoli nam to na łatwe modyfikacje i naprawy ewentualnych błędów.
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_8.png width="30%" height="30%">
 
 Pierwszym krokiem będzie rozkład przycisków S1 - S16. 
 
@@ -132,7 +134,7 @@ Teraz gdy już mamy zaplanowane rozłożenie przycisków możemy przejść do pr
 
 Podstawową rzeczą jaką powinniśmy zauważyć patrząc na schemat przycisku jest fakt, że nóżki 3 i 4 oraz 1 i 2 są ze sobą połączone, więc wciśnięcie przycisku powoduje zamknięcie obwodu między parami nóżek 1,2 i 3,4. Jest to o tyle istotny fakt, że podczas lutowania możemy zaoszczędzić bardzo dużo miejsca jak i czasu poświęconego na pracę. Przejdźmy zatem do lutowania: 
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_13.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_13.png width="70%" height="70%">
 
 Na zdjęciu powyżej widzimy pierwszą zlutowaną kolumnę. Oczywiście można było zrobić to inaczej, ale tak jak wspominałem, na płytkach uniwersalnych mamy pełną dowolność.
 
@@ -192,9 +194,12 @@ Do wykonania prostego zasilacza będziemy potrzebowali:
 * oraz opcjonalnie można użyć złącz ARK
 
 Na wstępie mały obrazek z wyjściami dla L7805CV aby wszystko poprawnie podłączyć: 
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_25.png>
 
-Następnie schemat całego zasilacza:<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_26.png>
+Następnie schemat całego zasilacza:
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_26.png>
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_27.png>
 
