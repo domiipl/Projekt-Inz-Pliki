@@ -2,7 +2,7 @@
 
 Do utworzenia naszego projektu, będą potrzebne: 
 
-### **NodeMCU(Arduino)**
+## **NodeMCU(Arduino)**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_0.jpg width="30%" height="50%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_1.jpg width="30%" height="50%">
 
@@ -66,7 +66,7 @@ Po zakończonej instalacji pakietu, zamykamy okno menedżera płytek i klikamy j
 
 Kiedy już wybierzemy odpowiedni moduł płytki nasze IDE jest w pełni skonfigurowane i gotowe do użytku.
 
-### **Raspberry Pi Zero**
+## **Raspberry Pi Zero**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_20.jpg width="30%" height="50%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_21.jpg width="30%" height="50%">
 
@@ -106,13 +106,13 @@ Warto tutaj dodać, że wspomniany wcześniej NPM opiera się mocno o dostęp do
 
 W tym momencie wszystko powinno być skonfigurowane i gotowe do użytku.
 
-### **Części do budowy robota oraz maty**
+## **Części do budowy robota oraz maty**
 
 Oczywiście do budowy naszego projektu będą potrzebne różne części, które opiszemy w kolejnych rozdziałach.
 
-### **Płytki PCB**
+## **Płytki PCB**
 
-**Schematy**
+###**Schematy**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="30%" height="30%">
 
@@ -184,6 +184,8 @@ tulejki możemy również kupić na allegro - trzeba jedynie pamiętać aby był
 
 Zanim przejdziesz już do tworzenia płytki, pamiętaj aby zachować wszelką ostrożność! Powinieneś znajdować się w dobrze wentylowanym pomieszczeniu.
 
+### **Tworzenie płytki**
+
 **Drukowanie**
 
 W tym kroku jest nam potrzebna drukarka laserowa. Jak wspomniałem wyżej, jeśli masz - świetnie, jeśli jednak nie, popytaj znajomych. Musimy wydrukować schemat płytki, najlepiej żebyś to zrobił przy użyciu papieru kredowego - jest tani i łatwo dostępny, także nie powinieneś mieć problemu z dostaniem go.
@@ -234,7 +236,7 @@ Warto tutaj dodać, że jeśli planujesz zrobić więcej płytek, to roztwór je
 
 Sprawdzamy teraz czy wszystkie ścieżki wyglądają poprawnie, jeśli tak to zmywamy toner acetonem. Miejsca, w których toner przykleił się bardzo mocno, można lekko przetrzeć papierem ściernym lub drucianą gąbką.
 
-### **Pistolet do kleju**
+## **Pistolet do kleju**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_22.jpg width="30%" height="50%">
 
@@ -251,7 +253,7 @@ Przykładowy link:
 [https://botland.com.pl/pl/kleje-i-klejarki/976-pistolet-do-klejenia-20w-zd-5.html](https://botland.com.pl/pl/kleje-i-klejarki/976-pistolet-do-klejenia-20w-zd-5.html)
 [https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv](https://botland.com.pl/pl/kleje-i-klejarki/896-klej-do-pistoletu-cienki-74150-mm-przezroczysty.htmlv) 
 
-### **Lutownica kolbowa**
+## **Lutownica kolbowa**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_23.jpg width="30%" height="50%">
 
@@ -267,7 +269,7 @@ Przykładowy link do sklepu:
 
 [https://abc-rc.pl/product-pol-12145-Lutownica-220V-60W-regulacja-temperatury.html](https://abc-rc.pl/product-pol-12145-Lutownica-220V-60W-regulacja-temperatury.html)
 
-### **Śrubokręt i śrubki**
+## **Śrubokręt i śrubki**
 
 * śrubokręt płaski
 
