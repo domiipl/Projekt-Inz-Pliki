@@ -2,7 +2,7 @@
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png>
 
-### **Lista wymaganych materiałów:**
+## **Lista wymaganych materiałów:**
 
 1. **Raspberry Pi Zero W 512MB RAM - WiFi + BT 4.1** - 1 sztuka
 <p align="center">
@@ -105,7 +105,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 
 [https://botland.com.pl/pl/wyswietlacze-oled/8246-wyswietlacz-oled-niebieski-graficzny-13-128x64px-i2c-v2-niebieskie-znaki.html](https://botland.com.pl/pl/wyswietlacze-oled/8246-wyswietlacz-oled-niebieski-graficzny-13-128x64px-i2c-v2-niebieskie-znaki.html)
 
-### **Budowa maty**
+## **Budowa maty**
 
 Na wstępie chciałbym zaznaczyć, że uniwersalne płytki PCB dają nam ogromną swobodę w tym jak nasz efekt końcowy będzie się prezentować. 
 
@@ -266,7 +266,7 @@ Efekt końcowy po podłączeniu całości i zamontowaniu przełącznika w płytc
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_39.png>
 
-### **Kod do maty**
+## **Kod do maty**
 
 **Instalacja kodu**
 
