@@ -27,12 +27,14 @@
     - Budowa Robota
     - Kod do robota
         - Instalacja kodu
+        - Opis kodu
 4. Mata
     - Lista wymaganych materiałów
     - Budowa maty
       - Obudowa maty
     - Kod do maty
       - Instalacja kodu
+      - Opis kodu
 5. Połączenie
     - Opis działania
 6. Podsumowanie
