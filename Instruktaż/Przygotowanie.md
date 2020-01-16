@@ -113,11 +113,11 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 ### **Schematy**
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="30%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="50%" height="50%">
 
 ***Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png width="30%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png width="50%" height="50%">
 
 ***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
