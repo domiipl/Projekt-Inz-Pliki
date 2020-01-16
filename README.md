@@ -16,7 +16,7 @@ Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. 
 
 Chcielibyśmy tutaj jeszcze dodać, że wykonując projekt trzeba liczyć się z pewnymi wydatkami.
 Orientacyjne koszty na dzień 16 stycznia 2020:
-* **Robot** -
+* **Robot** - Koszt wszystkich części robota to około 130zł, jeśli kupujemy na botlandzie. Można zmniejszyć koszta kupując części na przykład na aliexpress, jednak wydłuży się czas w jakim części przyjdą do nas.
 * **Mata** - 
 * **Płytki PCB** - 
 
