@@ -6,7 +6,7 @@
 
 1. **Chassis Rectangle 2WD 2-kołowe podwozie robota z napędem** – 1 sztuka 
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_1.jpg width="70%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_1.jpg width="30%" height="30%">
 </p>
 Przezroczysta platforma do budowy robota. W zestawie znajdują się dwa silniki prądu stałego z kołami o średnicy 65 mm. W części przedniej podporę stanowi metalowe koło obrotowe. Elementy podwozia są zrobione z akrylu, posiadają otwory montażowe pozwalające zamontować różnego rodzaju sensory czy kontrolery.
 
@@ -30,19 +30,19 @@ Przykładowy link do sklepu:
 
 2. **Silnik DC z przekładnią 1:48** – 2 sztuki (zawarte w zestawie z podwoziem)
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_2.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_2.jpg width="30%" height="30%">
 </p>
 Unikalna jednostka napędowa do Twojego robota. Silnik prądu stałego z przekładnią 1:48 zapewni wspaniałe osiągi dla Twojego robota. Dwustronna oś pozwala zamontować koło z oponą z dowolnej strony. 
 
 3. **Koło plastikowe z oponą 65/25 mm** – 2 sztuki (zawarte w zestawie z podwoziem)
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_3.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_3.jpg width="30%" height="30%">
 </p>
 Doskonała ochrona przed aquaplaningiem. Krótka droga hamowania. Bardzo dobra przyczepność na zakrętach. Niski poziom hałasu przez cały okres eksploatacji opony.
 
 4. **Moduł dwukanałowego sterownika silników z L298N**– 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_4.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_4.jpg width="30%" height="30%">
 </p>
 Umożliwia on sterowanie jednocześnie dwóch silników DC lub jednego silnika krokowego. Kontroler ten pozwala ustawić stałą (pełną) prędkość obrotu kół, lub kontrolować ją sygnałem PWM.
 
@@ -54,7 +54,7 @@ Przykładowy link do sklepu:
 
 5. **Moduł WiFi NodeMCU V3 LoLin ESP-12E(Arduino)** – 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_5.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_5.jpg width="30%" height="30%">
 </p>
 Przykładowy link do sklepu:
 
@@ -64,7 +64,7 @@ Przykładowy link do sklepu:
 
 6. **Kondensator 100uF 16V lub więcej** - 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.png width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_6.png width="30%" height="30%">
 </p>
 Przykładowy link do sklepu:
 
@@ -74,7 +74,7 @@ Przykładowy link do sklepu:
 
 7. **Dwupozycyjny przełącznik MTS-102** – 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_7.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_7.jpg width="30%" height="30%">
 </p>
 Przełącznik dźwigniowy, dwupozycyjny, jednosekcyjny, MTS-1.
 
@@ -92,7 +92,7 @@ Przykładowy link do sklepu:
 
 8. **Koszyk na dwa ogniwa 18650 2S**– 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_8.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_8.jpg width="30%" height="30%">
 </p>
 Łączy w szereg dwa ogniwa 18650. Daje to od ~7.0 do 8.4 V w zależności od naładowania ogniw. Długi 30-centymetrowy kabel daje się ładnie układać. 
 
@@ -107,7 +107,7 @@ Koszyk z włącznikiem:
 
 9. **Stabilizator liniowy 3.3V  min. 0.8A** – 1 sztuka
 <p align="center">
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_9.jpg width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_9.jpg width="30%" height="30%">
 </p>
 Przykładowy link do sklepu:
 
