@@ -214,7 +214,8 @@ Podłączamy je zgodnie z opisem poniżej (NodeMCU -> DC Controller)
 
 Oczywiście możesz piny podłączyć w inny, np. bardziej uporządkowany sposób. Pamiętaj jednak aby nanieść zmiany w kodzie. Pamiętaj również, że piny w NodeMCU nie są numerowane w kodzie tak, jak jest to opisane na płytce. Skorzystaj np. z tego schematu by sprawdzić piny:
 
-![image alt text](image_0.png)
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_30.png >
+
 ### **Kod do robota**
 
 Cały, gotowy do wgrania kod do robota znajdziesz pod tym linkiem:
