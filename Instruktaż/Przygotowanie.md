@@ -24,9 +24,9 @@ Wciskamy interesujący nas link z installerem z prawej strony i przechodzimy dal
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_3.png>
 
-Jak wspomniałem, program jest w pełni darmowy dlatego strona proponuje nam dobrowolny podarunek pieniężny, więc jeżeli czujesz że chcesz wspomóc twórców - śmiało zaznacz interesującą Cię kwotę i przejdź dalej przyciskiem "**CONTRIBUTE & DOWNLOAD**". Ja natomiast przejdę do pobierania wciskając przycisk “**JUST DOWNLOAD**”.
+Przechodzimy dalej przyciskiem “**JUST DOWNLOAD**”.
 
-Czekamy aż instalka skończy się pobierać i przechodzimy do instalacji programu. Oczywiście czytamy całą umowę licencyjną i jeśli nie mamy zastrzeżeń wciskamy "I Agree".
+Czekamy aż pobieranie się zakończy i przechodzimy do instalacji programu. Jeżeli nie mamy większych zastrzeżeń co do umowy licencyjnej, wciskamy "I agree" i przechodzimy dalej.
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_4.png>
 
