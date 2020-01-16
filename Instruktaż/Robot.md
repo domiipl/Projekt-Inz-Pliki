@@ -1,4 +1,4 @@
-# 2. **Robot.**
+# 3. **Robot.**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_0.jpg>
 
