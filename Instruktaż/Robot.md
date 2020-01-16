@@ -188,8 +188,33 @@ Po zamontowaniu wszystkich części, polecamy użyć pistoletu na klej i zaklei�
 
 **Połączenie części**
 
-Zaczynamy od połączenia kabli silników do wejść na kontrolerze DC - są to skręcane, skrajne podwójne wejścia. Następnie lutujemy kable odpowiedzialne za zasilanie do płytki od Node’a. Łączymy jeszcze zasilanie Node’a z kontrolerem DC - plus do wejścia 12V a minus do wejścia GND. Na koniec łączymy piny od płytki z pinami kontrolera. ~~OPISAĆ DOKŁADNIEJ KTÓRE GDZIE~~
+Zaczynamy od połączenia kabli silników do wejść na kontrolerze DC - są to skręcane, skrajne podwójne wejścia. To jak podłączysz silniki nie ma w tym momencie znaczenia. Po skończeniu robota przetestuj go i zamień w razie potrzeby kable od silników.
 
+Następnie czas podpiąć zasilanie. Jeśli korzystasz z płytki drukowanej, na płytce masz wyprowadzone odpowiednie piny do zasilania kontrolera DC, a zasilanie Node’a idzie prosto z regulatora napięcia do odpowiednich wejść. Jeśli używasz płytki uniwersalnej, wlutuj regulator napięcia w płytkę oraz połącz ze sobą odpowiednie piny regulatora i Node’a (Regulator -> NodeMCU)
+
+* Output -> 3.3V
+* GND -> GND
+
+Pamiętaj aby do wejścia Input regulatora podpiąć + od zasilania.
+Bezpośrednio z zasilania, podłącz się kabelkami do wejść 12V i GND w DC Controlerze (Zasilanie -> DC Controller)
+
+* 12V -> 12V
+* GND -> GND
+
+Na płytce mamy dwie sekcje po 3 piny, odpowiadające pinom D1,D2,D3 oraz D5,D6,D7 znajdującym się w NodeMCU.
+
+Podłączamy je zgodnie z opisem poniżej (NodeMCU -> DC Controller)
+
+* D1 -> IN4
+* D2 -> IN3
+* D3 -> ENA
+* D5 -> IN1
+* D6 -> IN2
+* D7 -> ENB
+
+Oczywiście możesz piny podłączyć w inny, np. bardziej uporządkowany sposób. Pamiętaj jednak aby nanieść zmiany w kodzie. Pamiętaj również, że piny w NodeMCU nie są numerowane w kodzie tak, jak jest to opisane na płytce. Skorzystaj np. z tego schematu by sprawdzić piny:
+
+![image alt text](image_0.png)
 ### **Kod do robota**
 
 Cały, gotowy do wgrania kod do robota znajdziesz pod tym linkiem:
