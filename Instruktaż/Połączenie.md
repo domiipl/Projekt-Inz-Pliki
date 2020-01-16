@@ -1,6 +1,6 @@
 # 4. **Połączenie robota oraz maty**
 
-### **Opis działania**
+## **Opis działania**
 
 W naszym projekcie zdecydowaliśmy, że to robot(Arduino) będzie tworzył sieć wifi i ją konfigurował. Definiujemy port, server,
 ```
