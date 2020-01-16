@@ -242,7 +242,6 @@ Sprawdzamy teraz czy wszystkie ścieżki wyglądają poprawnie, jeśli tak to zm
 Zalecane właściwości:
 
 * Moc - 10 W,
-
 * Średnica kleju - 8 mm,
 
 Przykładowy link:
@@ -259,7 +258,6 @@ Przykładowy link:
 Zalecane właściwości:
 
 * Napięcie zasilania - 230 V,
-
 * Moc - 60 W,
 
 Przykładowy link do sklepu:
@@ -271,13 +269,15 @@ Przykładowy link do sklepu:
 ## **Śrubokręt i śrubki**
 
 * śrubokręt płaski
-
 * śrubokręt krzyżakowy
 [https://botland.com.pl/pl/zestawy-narzedzi/12640-zestaw-wkretakow-precyzyjnych-16-elementow-5900804106333.htm](https://botland.com.pl/pl/zestawy-narzedzi/12640-zestaw-wkretakow-precyzyjnych-16-elementow-5900804106333.htm)
 Taki zestaw powinien w zupełności wystarczyć. Naszym zdaniem lepiej kupić taki zestaw niż kupować pojedyncze śrubokręty
 
-* 4 śrubki M3x12mm
-
+* 4 śrubki M3x10mm
 * 4 nakrętki M3
 [https://botland.com.pl/pl/srubki-i-nakretki/636-zestaw-srubki-i-nakretki-180szt-5410329304485.html](https://botland.com.pl/pl/srubki-i-nakretki/636-zestaw-srubki-i-nakretki-180szt-5410329304485.html) 
+
+[https://botland.com.pl/pl/srubki-i-nakretki/770-srubki-m3-dlugosc-10mm-z-podkladkami-10szt.html](https://botland.com.pl/pl/srubki-i-nakretki/770-srubki-m3-dlugosc-10mm-z-podkladkami-10szt.html)
+
+[https://botland.com.pl/pl/srubki-i-nakretki/806-nakretki-m3-10szt.html](https://botland.com.pl/pl/srubki-i-nakretki/806-nakretki-m3-10szt.html)
 
