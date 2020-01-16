@@ -31,5 +31,5 @@ Projekt jest projektem otwartym, jeśli ktoś zdecyduje się na budowę, powinie
 Warto w tym miejscu jeszcze dodać, że decydując się na budowę projektu trzeba się liczyć z pewnymi kosztami. Orientacyjne ceny na dzień 16 stycznia 2020 roku to:
 
 * Robot - około 130 złotych,
-* Mata - około xxx złotych
+* Mata - około 205 złotych.
 
