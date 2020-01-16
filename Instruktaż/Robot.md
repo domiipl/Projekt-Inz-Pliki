@@ -128,12 +128,15 @@ Zdejmujemy najpierw mały kawałek izolacji na kabelkach - około 1 do 2mm, moż
 Następnie potrzebujemy rozgrzać lutownicę, jeżeli posiadasz zwykłą kolbową - dotknij grotu cyną, jeśli będzie się topić to lutownica jest wystarczająco nagrzana, jeśli jednak posiadasz lutownicę z możliwością regulacji temperatury - ustaw ją w okolicach 400-450 stopni.
 
 Na blaszkę w silniku nakładamy odrobinę cyny.
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_10.png>
 
-Odsłonięty kabel przykładamy do blaszki silnika - kolor kabelka jest obecnie nieistotny, polaryzację możemy zmienić później w kodzie robota. 
+Odsłonięty kabel przykładamy do blaszki silnika - kolor kabelka jest obecnie nieistotny, polaryzację możemy zmienić później w kodzie robota.
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_11.png> 
 
 Przykładamy rozgrzaną lutownicę do odsłoniętego kabelka i nakładamy cynę tak, aby rozgrzała cynę na blaszce i abyśmy mogli przełożyć kabelek przez dziurkę i pokryć go cyną. Oczywiście nie powinieneś ruszać kabelkiem w trakcie lutowania. Po krótkiej chwili lut zastygnie i połączenie będzie gotowe. Powtarzamy tą czynność dla reszty kabelków.
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_12.png>
 
 Jeśli korzystasz z koszyka na ogniwa, które podaliśmy w liście części, prawdopodobnie nie będzie musiał lutować kabelków. Jeśli jednak koszyk nie miałby kabli lub miałbyś inny koszyk na baterie, powtórz powyższe czynności.
@@ -141,6 +144,7 @@ Jeśli korzystasz z koszyka na ogniwa, które podaliśmy w liście części, pra
 **Lutowanie włącznika**
 
 Istotnym jest jeszcze dolutowanie przycisku włączenia/wyłączenia, bez tego nasz robot się nie uruchomi. Łapiemy za koszyk na ogniwo i ucinamy czarny kabelek mniej więcej w połowie. Teraz musimy jeszcze zdjąć kawałek izolacji na końcu kabelka od koszyka oraz z obu stron na uciętym kawałku kabelka. 
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_13.png>
 
 Następnie przechodzimy do lutowania.
@@ -157,8 +161,9 @@ Po zakończonym lutowaniu dobrze jest wgrać kod do robota, tak dla wygody. Opis
 
 **Przygotowanie podwozia**
 
-Musimy odpowiednio wywiercić otwory w podwoziu, tak aby móc zamontować części w odpowiednich miejscach. Przykładamy koszyki od akumulatorów i zaznaczamy markerem miejsca, w których następnie wiercimy otwory. <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_17.png>
+Musimy odpowiednio wywiercić otwory w podwoziu, tak aby móc zamontować części w odpowiednich miejscach. Przykładamy koszyki od akumulatorów i zaznaczamy markerem miejsca, w których następnie wiercimy otwory. 
 
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_17.png>
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_18.png>
 
 Do wiercenia używamy wiertła 3mm. 
