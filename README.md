@@ -20,7 +20,7 @@ Powodzenia!
 Chcielibyśmy tutaj jeszcze dodać, że wykonując projekt trzeba liczyć się z pewnymi wydatkami.
 Orientacyjne koszty na dzień 16 stycznia 2020:
 * **Robot** - Koszt wszystkich części robota to około 130zł, jeśli kupujemy na botlandzie. Można zmniejszyć koszta kupując części na przykład na aliexpress, jednak wydłuży to czas w jakim części do nas przyjdą.
-* **Mata** - 
+* **Mata** - Koszt wszystkich części maty wynosi około 205zł, podobna sytuacja jak z częściami u robota, koszty można zmniejszyć kupując na przykład z allegro lub aliexpress.
 
 Zdjęcia końcowe produktów:
 
