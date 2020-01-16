@@ -112,7 +112,7 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 ## **Płytki PCB**
 
-###**Schematy**
+### **Schematy**
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="30%" height="30%">
 
