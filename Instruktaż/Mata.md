@@ -89,6 +89,7 @@ Komentarz: + dodatkowa 2cm x 8cm do budowy płytki zasilającej
 <p align="center">
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_7.jpg width="30%" height="30%">
 </p>
+
 * Napięcie pracy: od 3,3 V do 5,0 V
 * Sterownik: SH1106 (dokumentacja)
 * Komunikacja: I2C
@@ -110,7 +111,7 @@ Na wstępie chciałbym zaznaczyć, że uniwersalne płytki PCB dają nam ogromn�
 
 Przed rozpoczęciem budowy "maty" najlepiej zapoznać się z schematem i wstępnie zaplanować sobie rozkład połączeń na uniwersalnej płytce. Porządek to podstawa, ponieważ później pozwoli nam to na łatwe modyfikacje i naprawy ewentualnych błędów.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_8.png width="30%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_8.png width="50%" height="50%">
 
 Pierwszym krokiem będzie rozkład przycisków S1 - S16. 
 
