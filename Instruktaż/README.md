@@ -23,11 +23,12 @@
     - Lutownica kolbowa
     - Śrubokręt i śrubki
 3. Robot
-    - Lista wymaganych materiałów.
+    - Lista wymaganych materiałów
     - Budowa Robota
     - Kod do robota
+        - Instalacja kodu
 4. Mata
-    - Lista wymaganych materiałów:
+    - Lista wymaganych materiałów
     - Budowa maty
       - Obudowa maty
     - Kod do maty
