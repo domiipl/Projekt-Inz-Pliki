@@ -1,4 +1,4 @@
-# 1. **Przygotowanie.**
+# 2. **Przygotowanie.**
 
 Do utworzenia naszego projektu, będą potrzebne: 
 
