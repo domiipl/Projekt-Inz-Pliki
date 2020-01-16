@@ -114,11 +114,11 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 **Schematy**
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="30%" height="30%">
 
 ***Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png width="30%" height="30%">
 
 ***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
@@ -195,9 +195,11 @@ W tym kroku jest nam potrzebna drukarka laserowa. Jak wspomniałem wyżej, jeśl
 Teraz przykładamy schemat do płytki i wiercimy dziurki w rogach schematu na płytce, tak aby góra i dół pokrywały się ze sobą, ponieważ płytka będzie dwustronna. Następnie docinamy płytkę do wielkości schematu i przechodzimy do kolejnego kroku.
 
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_16.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_17.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_16.png>
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_18.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_17.png height="30%">
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_18.png height="30%">
 
 **Czyszczenie powierzchni**
 
