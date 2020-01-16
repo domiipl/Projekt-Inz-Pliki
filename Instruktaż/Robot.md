@@ -149,11 +149,11 @@ Istotnym jest jeszcze dolutowanie przycisku włączenia/wyłączenia, bez tego n
 
 Następnie przechodzimy do lutowania.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_14.png width="30%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_14.png width="50%" height="20%">
 
 Kabelek, który został odcięty lutujemy do blaszki w  miejscu, w którym znajduje się "I" na przycisku, a w miejscu “O” powinniśmy dolutować czarny kabel, który wychodzi od koszyka na ogniwa. “I” oznacza włączony, a “O” wyłączony.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_15.png width="30%" height="30%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_15.png width="50%" height="20%">
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_16.png>
 
@@ -177,18 +177,20 @@ Na koniec odklejamy jeszcze folię zabezpieczającą podwozie.
 **Montaż części**
 
 Łapiemy za śrubokręt krzyżakowy oraz śrubki i przykręcamy do podwozia silniki w uchwytach montażowych.
-<p>
-<p align="left"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_21.png></p><p align-"right"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_22.png></p>
-</p>
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_21.png>
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_22.png>
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_23.png>
 
 Następnie montujemy części, dla których wywierciliśmy otwory w punkcie powyżej, czyli kontroler DC oraz koszyk na ogniwa.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_24.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_25.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_24.png width="50%" height="20%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_25.png>
 
 Przykręcamy również koło obrotowe, dla którego zrobiono miejsca na przodzie podwozia.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_26.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_27.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_26.png><br><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_27.png>
 
 Po zamontowaniu wszystkich części, polecamy użyć pistoletu na klej i zakleić koło obrotowe. Dzięki temu, robot będzie bardziej stabilny podczas jazdy. Uważaj tylko żeby przyklejone koło było ustawione prosto, inaczej robot będzie niepotrzebnie skręcał w trakcie jazdy.
 
