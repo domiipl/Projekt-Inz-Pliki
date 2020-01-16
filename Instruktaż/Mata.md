@@ -268,11 +268,11 @@ Efekt końcowy po podłączeniu całości i zamontowaniu przełącznika w płytc
 
 ## **Kod do maty**
 
-**Instalacja kodu**
-
-Tak jak w przypadku robota, pełny kod znajdziesz w linku poniżej.
+Tak jak w przypadku robota, pełny kod znajdziesz w linku poniżej, a jeżeli interesujesz się sposobem działania kodu, poniżej znajdziesz opis.
 
 [Kod do maty](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Kod%20-%20mata/Mata.js)
+
+### **Instalacja kodu**
 
 Sama instalacja kodu na Raspberry jest dość prosta. Najpierw klonujemy repozytorium
 ```
