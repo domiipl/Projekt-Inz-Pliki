@@ -149,11 +149,11 @@ Istotnym jest jeszcze dolutowanie przycisku włączenia/wyłączenia, bez tego n
 
 Następnie przechodzimy do lutowania.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_14.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_14.png width="30%" height="30%">
 
 Kabelek, który został odcięty lutujemy do blaszki w  miejscu, w którym znajduje się "I" na przycisku, a w miejscu “O” powinniśmy dolutować czarny kabel, który wychodzi od koszyka na ogniwa. “I” oznacza włączony, a “O” wyłączony.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_15.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_15.png width="30%" height="30%">
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_16.png>
 
@@ -172,14 +172,14 @@ Czynności powtarzamy dla kontrolera DC.
 
 Na koniec odklejamy jeszcze folię zabezpieczającą podwozie.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_19.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_20.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_19.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_20.png width="50%" height="50%">
 
 **Montaż części**
 
 Łapiemy za śrubokręt krzyżakowy oraz śrubki i przykręcamy do podwozia silniki w uchwytach montażowych.
-
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_21.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_22.png>
-
+<p>
+<p align="left"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_21.png></p><p align-"right"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_22.png></p>
+</p>
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_23.png>
 
 Następnie montujemy części, dla których wywierciliśmy otwory w punkcie powyżej, czyli kontroler DC oraz koszyk na ogniwa.
