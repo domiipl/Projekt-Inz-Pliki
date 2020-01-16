@@ -6,7 +6,8 @@
 5. Podsumowanie
 
 # Spis treści
-1. Przygotowanie
+1. Informacje o projekcie
+2. Przygotowanie
     - NodeMCU(Arduino)
       - Arduino IDE
       - Konfiguracja IDE
@@ -20,17 +21,17 @@
     - Pistolet do kleju
     - Lutownica kolbowa
     - Śrubokręt i śrubki
-2. Robot
+3. Robot
     - Lista wymaganych materiałów.
     - Budowa Robota
     - Kod do robota
-3. Mata
+4. Mata
     - Lista wymaganych materiałów:
     - Budowa maty
       - Obudowa maty
     - Kod do maty
       - Instalacja kodu
-4. Połączenie
+5. Połączenie
     - Opis działania
-5. Podsumowanie
+6. Podsumowanie
     - Dodatkowe pomysły
