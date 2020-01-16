@@ -1,9 +1,10 @@
 # Kolejność czytania rozdziałów
-1. Przygotowanie
-2. Robot
-3. Mata
-4. Połączenie
-5. Podsumowanie
+1. Informacje
+2. Przygotowanie
+3. Robot
+4. Mata
+5. Połączenie
+6. Podsumowanie
 
 # Spis treści
 1. Informacje o projekcie
