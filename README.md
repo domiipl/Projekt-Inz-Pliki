@@ -14,7 +14,7 @@ Dzielą się one na:
 
 Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Powodzenia!
 
-Chcielibyśmy tutaj jeszczę dodać, że wykonując projekt trzeba liczyć się z pewnymi wydatkami.
+Chcielibyśmy tutaj jeszcze dodać, że wykonując projekt trzeba liczyć się z pewnymi wydatkami.
 Orientacyjne koszty na dzień 16 stycznia 2020:
 * **Robot** -
 * **Mata** - 
