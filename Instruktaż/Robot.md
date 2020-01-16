@@ -164,6 +164,7 @@ Po zakończonym lutowaniu dobrze jest wgrać kod do robota, tak dla wygody. Opis
 Musimy odpowiednio wywiercić otwory w podwoziu, tak aby móc zamontować części w odpowiednich miejscach. Przykładamy koszyki od akumulatorów i zaznaczamy markerem miejsca, w których następnie wiercimy otwory. 
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_17.png>
+
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_18.png>
 
 Do wiercenia używamy wiertła 3mm. 
@@ -172,7 +173,9 @@ Czynności powtarzamy dla kontrolera DC.
 
 Na koniec odklejamy jeszcze folię zabezpieczającą podwozie.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_19.png><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_20.png width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_19.png>
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_20.png width="50%" height="50%">
 
 **Montaż części**
 
@@ -186,11 +189,15 @@ Na koniec odklejamy jeszcze folię zabezpieczającą podwozie.
 
 Następnie montujemy części, dla których wywierciliśmy otwory w punkcie powyżej, czyli kontroler DC oraz koszyk na ogniwa.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_24.png width="50%" height="20%"><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_25.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_24.png width="50%" height="20%">
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_25.png>
 
 Przykręcamy również koło obrotowe, dla którego zrobiono miejsca na przodzie podwozia.
 
-<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_26.png><br><img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_27.png>
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_26.png>
+
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaRobot/image_27.png>
 
 Po zamontowaniu wszystkich części, polecamy użyć pistoletu na klej i zakleić koło obrotowe. Dzięki temu, robot będzie bardziej stabilny podczas jazdy. Uważaj tylko żeby przyklejone koło było ustawione prosto, inaczej robot będzie niepotrzebnie skręcał w trakcie jazdy.
 
