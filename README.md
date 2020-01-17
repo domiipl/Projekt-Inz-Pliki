@@ -5,7 +5,7 @@ Robot sterowany jest za pomocą sekwencji, które wprowadzamy na wyżej wymienio
 
 Bardziej szczegółowe informacje na temat samego projektu znajdziesz w samym poradniku.
 
-Repozytorium jest podzielone na pięć folderów. Każdy z nich odpowiada za osobną część naszego projektu.
+Repozytorium jest podzielone na pięć folderów.
 Dzielą się one na:
 * **Kod robota** - znajduje się tu gotowy kod, dzięki któremu robot będzie w stanie się poruszać.
 * **Kod maty** - znajduje się tu gotowy kod, dzięki któremu będziemy w stanie wysyłać komendy z maty do robota.
