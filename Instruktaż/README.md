@@ -1,4 +1,4 @@
-## Zalecamy czytanie poradnika zgodnie z kolejnością spisu treści
+### Zalecamy czytanie poradnika zgodnie z kolejnością spisu treści
 
 # Spis treści
 1. [Informacje o projekcie](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Informacje.md)
