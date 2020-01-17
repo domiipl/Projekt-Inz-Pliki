@@ -1,14 +1,8 @@
-# Kolejność czytania rozdziałów
-1. Informacje
-2. Przygotowanie
-3. Robot
-4. Mata
-5. Połączenie
-6. Podsumowanie
+## Zalecamy czytanie poradnika zgodnie z kolejnością spisu treści
 
 # Spis treści
-1. Informacje o projekcie
-2. Przygotowanie
+1. [Informacje o projekcie](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Informacje.md)
+2. [Przygotowanie](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Przygotowanie.md)
     - NodeMCU(Arduino)
       - Arduino IDE
       - Konfiguracja IDE
@@ -22,20 +16,20 @@
     - Pistolet do kleju
     - Lutownica kolbowa
     - Śrubokręt i śrubki
-3. Robot
+3. [Robot](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Robot.md)
     - Lista wymaganych materiałów
     - Budowa Robota
     - Kod do robota
         - Instalacja kodu
         - Opis kodu
-4. Mata
+4. [Mata](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Mata.md)
     - Lista wymaganych materiałów
     - Budowa maty
       - Obudowa maty
     - Kod do maty
       - Instalacja kodu
       - Opis kodu
-5. Połączenie
+5. [Połączenie](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Po%C5%82%C4%85czenie.md)
     - Opis działania
-6. Podsumowanie
+6. [Podsumowanie](https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Podsumowanie.md)
     - Dodatkowe pomysły
