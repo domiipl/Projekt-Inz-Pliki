@@ -11,7 +11,7 @@ Dzielą się one na:
 * **Kod maty** - znajduje się tu gotowy kod, dzięki któremu będziemy w stanie wysyłać komendy z maty do robota.
 * **Schemat robota** - wymagane pliki do zamówienia płytki pcb do robota.
 * **Schemat maty** - wymagane pliki do zamówienia płytki pcb do robota.
-* **Instruktaż** - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
+* **Instruktaż** - szczegółowy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
 
 Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Spis treści znajdziesz w pliku README w folderze "Instruktaż".
 
