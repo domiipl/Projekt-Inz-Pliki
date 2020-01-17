@@ -13,7 +13,7 @@ Dzielą się one na:
 * **Schemat maty** - wymagane pliki do zamówienia płytki pcb do robota.
 * **Instruktaż** - szczegółówy poradnik zawierający wymagane materiały oraz opis budowy robota i maty.
 
-Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Spis treści oraz kolejność czytania rozdziałów znajdziesz w pliku README w folderze "Instruktaż".
+Zalecamy z zapoznaniem się dokładnie z poradnikiem przed próbą konstrukcji. Spis treści znajdziesz w pliku README w folderze "Instruktaż".
 
 Powodzenia!
 
