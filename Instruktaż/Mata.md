@@ -285,11 +285,11 @@ cd Kod\ -\ mata/
 ```
 i wpisujemy 
 ```
-npm install
+sudo npm install
 ```
 Czekamy aż zainstalują się biblioteki i wpisujemy kolejną komendę
 ```
-node Mata.js
+sudo node Mata.js
 ```
 Po zakończonej instalacji kodu, robimy z naszej maliny serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy,
 ```
