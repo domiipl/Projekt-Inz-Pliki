@@ -105,6 +105,8 @@ sudo apt-get install git
 ```
 W tym momencie wszystko powinno być skonfigurowane i gotowe do użytku.
 
+Alternatywą jest pobranie gotowego obrazu [Raspberry Obraz](https://www.easypaste.org/file/VKEXptmN/Mata-image.img?lang=pl&fbclid=IwAR1SwqsxZgq6DJwab1vM9JaG7kvvzmu8TVImNpQiHZh9aW6OU5bWH4ySXsk) i zainstalowanie go przy pomocy “win32diskimager”. W programie należy wybrać literę naszej karty SD, wybrać obraz i kliknąć Zapisz.
+
 ## **Części do budowy robota oraz maty**
 
 Oczywiście do budowy naszego projektu będą potrzebne różne części, które opiszemy w kolejnych rozdziałach.
