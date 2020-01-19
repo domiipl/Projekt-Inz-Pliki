@@ -113,11 +113,11 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 ### **Schematy**
 
-<img src= width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_24.png width="50%" height="50%">
 
 ***Zdjęcie przedstawia schemat połączeń w robocie.***
 
-<img src= width="50%" height="50%">
+<img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_25.png width="50%" height="50%">
 
 ***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej do robota. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
