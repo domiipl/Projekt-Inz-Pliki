@@ -11004,14 +11004,17 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <part name="J1" library="con-headers-jp" deviceset="F-1X03-" device="SIP-100-32"/>
 <part name="J2" library="con-headers-jp" deviceset="F-1X03-" device="SIP-100-32"/>
 <part name="J3" library="con-headers-jp" deviceset="F-1X02-" device="SIP-100-32"/>
+<part name="J4" library="con-headers-jp" deviceset="F-1X02-" device="SIP-100-40"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="15.24" y="30.48" size="1.778" layer="91">Motor 1</text>
-<text x="43.18" y="30.48" size="1.778" layer="91">Motor 2</text>
+<text x="22.86" y="30.48" size="1.778" layer="91">Motor 1</text>
+<text x="38.1" y="30.48" size="1.778" layer="91">Motor 2</text>
 <text x="-15.24" y="76.2" size="1.778" layer="91">VCC</text>
 <text x="-15.24" y="73.66" size="1.778" layer="91">GND</text>
+<text x="7.62" y="27.94" size="1.778" layer="91">Controller
+  Power</text>
 </plain>
 <instances>
 <instance part="SV1" gate="G$1" x="27.94" y="88.9" smashed="yes" rot="R270">
@@ -11026,17 +11029,21 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <attribute name="NAME" x="0" y="34.925" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="0" y="37.465" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="J1" gate="G$1" x="17.78" y="38.1" smashed="yes" rot="R270">
-<attribute name="VALUE" x="10.16" y="39.37" size="1.778" layer="96" rot="R270"/>
-<attribute name="NAME" x="23.622" y="39.37" size="1.778" layer="95" rot="R270"/>
+<instance part="J1" gate="G$1" x="25.4" y="38.1" smashed="yes" rot="R270">
+<attribute name="VALUE" x="17.78" y="39.37" size="1.778" layer="96" rot="R270"/>
+<attribute name="NAME" x="31.242" y="39.37" size="1.778" layer="95" rot="R270"/>
 </instance>
-<instance part="J2" gate="G$1" x="45.72" y="38.1" smashed="yes" rot="R270">
-<attribute name="VALUE" x="38.1" y="39.37" size="1.778" layer="96" rot="R270"/>
-<attribute name="NAME" x="51.562" y="39.37" size="1.778" layer="95" rot="R270"/>
+<instance part="J2" gate="G$1" x="40.64" y="38.1" smashed="yes" rot="R270">
+<attribute name="VALUE" x="33.02" y="39.37" size="1.778" layer="96" rot="R270"/>
+<attribute name="NAME" x="46.482" y="39.37" size="1.778" layer="95" rot="R270"/>
 </instance>
 <instance part="J3" gate="G$1" x="-7.62" y="73.66" smashed="yes" rot="R180">
 <attribute name="VALUE" x="-6.35" y="81.28" size="1.778" layer="96" rot="R180"/>
 <attribute name="NAME" x="-6.35" y="70.358" size="1.778" layer="95" rot="R180"/>
+</instance>
+<instance part="J4" gate="G$1" x="12.7" y="38.1" smashed="yes" rot="R270">
+<attribute name="VALUE" x="5.08" y="39.37" size="1.778" layer="96" rot="R270"/>
+<attribute name="NAME" x="16.002" y="39.37" size="1.778" layer="95" rot="R270"/>
 </instance>
 </instances>
 <busses>
@@ -11058,39 +11065,36 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <junction x="-2.54" y="66.04"/>
 <pinref part="IC1" gate="A1" pin="GND"/>
 <wire x1="-2.54" y1="48.26" x2="-7.62" y2="48.26" width="0.1524" layer="91"/>
+<pinref part="J4" gate="G$1" pin="1"/>
+<wire x1="12.7" y1="43.18" x2="12.7" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="48.26" x2="-2.54" y2="48.26" width="0.1524" layer="91"/>
+<junction x="-2.54" y="48.26"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="1"/>
-<wire x1="48.26" y1="53.34" x2="48.26" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="G$1" pin="14"/>
-<wire x1="43.18" y1="81.28" x2="43.18" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="53.34" x2="48.26" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="81.28" x2="43.18" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="2"/>
-<wire x1="45.72" y1="50.8" x2="45.72" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="50.8" x2="40.64" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="G$1" pin="13"/>
-<wire x1="40.64" y1="50.8" x2="40.64" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="43.18" x2="40.64" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
 <pinref part="J2" gate="G$1" pin="3"/>
-<wire x1="43.18" y1="43.18" x2="43.18" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="G$1" pin="12"/>
-<wire x1="43.18" y1="48.26" x2="38.1" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="48.26" x2="38.1" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="43.18" x2="38.1" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="20.32" y1="43.18" x2="27.94" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="SV1" gate="G$1" pin="8"/>
 <wire x1="27.94" y1="43.18" x2="27.94" y2="81.28" width="0.1524" layer="91"/>
 </segment>
@@ -11098,19 +11102,15 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <net name="N$7" class="0">
 <segment>
 <pinref part="SV1" gate="G$1" pin="7"/>
-<wire x1="25.4" y1="81.28" x2="25.4" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="45.72" x2="17.78" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="81.28" x2="25.4" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="2"/>
-<wire x1="17.78" y1="45.72" x2="17.78" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="SV1" gate="G$1" pin="6"/>
-<wire x1="22.86" y1="81.28" x2="22.86" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="48.26" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="81.28" x2="22.86" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="3"/>
-<wire x1="15.24" y1="48.26" x2="15.24" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -11122,6 +11122,10 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 <wire x1="-22.86" y1="30.48" x2="2.54" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="A1" pin="VI"/>
 <wire x1="2.54" y1="30.48" x2="2.54" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="J4" gate="G$1" pin="2"/>
+<wire x1="10.16" y1="43.18" x2="2.54" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="43.18" x2="2.54" y2="40.64" width="0.1524" layer="91"/>
+<junction x="2.54" y="40.64"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -11145,6 +11149,10 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </schematic>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
