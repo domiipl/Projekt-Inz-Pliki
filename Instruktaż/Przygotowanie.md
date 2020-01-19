@@ -115,19 +115,19 @@ Oczywiście do budowy naszego projektu będą potrzebne różne części, które
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_24.png width="50%" height="50%">
 
-***Zdjęcie przedstawia schemat połączeń w robocie.***
+***Zdjęcie powyżej przedstawia schemat połączeń w robocie.***
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_25.png width="30%" height="30%">
 
-***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej do robota. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
+***Zdjęcie powyżej przedstawia projekt płytki drukowanej dwustronnej do robota. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_13.png width="50%" height="50%">
 
-***Zdjęcie przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
+***Zdjęcie powyżej przedstawia schemat połączeń w macie. Przyciski, ekran  oraz konektor do  Raspberry Pi.***
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_14.png width="50%" height="50%">
 
-***Zdjęcie przedstawia projekt płytki drukowanej dwustronnej do maty. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
+***Zdjęcie powyżej przedstawia projekt płytki drukowanej dwustronnej do maty. Czerwone linie oznaczają ścieżki na górnej warstwie laminatu, niebieskie na dolnej warstwie.***
 
 Do naszego robota oraz maty będzie potrzeba po jednej płytce pcb. W tym miejscu mamy dwa sposoby na ich przygotowanie. Możesz je przygotować samemu, tak jak zrobiliśmy to my lub możesz takowe płytki zamówić za dodatkową opłatą. Jeśli zdecydujesz się zamówić płytki, będzie Ci potrzebny jedynie plik ze schematem, który musisz wysłać do odpowiedniej firmy. Najważniejszym plikiem jest plik o rozszerzeniu ".zip". Zawiera on pliki gerber, które są wymagane podczas zamówienia, jednak wstawiamy więcej plików ze schematami w przypadku gdyby były jednak potrzebne.
 
