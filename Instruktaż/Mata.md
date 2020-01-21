@@ -291,18 +291,12 @@ Czekamy aż zainstalują się biblioteki i wpisujemy kolejną komendę
 ```
 sudo node Mata.js
 ```
-Po zakończonej instalacji kodu, robimy z naszej maliny serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy. (Uwaga - w tym miejscu być może również potrzeba użyć sudo przed każdą z kolejnych komend oraz istnieje możliwość, że masz podaną złą ścieżkę do "Mata.js". W tym przypadku edytuj plik "nodeserver.service" i ustaw odpowiednią ścieżkę).
+Po zakończonej instalacji kodu, robimy z naszego Raspnerru serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy. (Uwaga - w tym miejscu istnieje możliwość, że możesz mieć podaną złą ścieżkę do pliku "Mata.js". W tym przypadku edytuj plik "nodeserver.service" i ustaw odpowiednią ścieżkę. Na przykład poleceniem "nano nodeserver.service")
 ```
-systemctl enable nodeserver.service
+sudo cp nodeserver.service /lib/systemd/system/
 ```
-która zezwala na włączenie serwisu, następnie komenda uruchamiająca malinę jako serwis
-```
-systemctl start nodeserver.service
-```
-Na koniec możemy jeszcze sprawdzić czy wszystko działa komendą
-```
-systemctl status nodeserver.service
-```
+która przekopiuje plik "nodeserver.service" do folderu systemowego. W tym momencie serwis powinien działać.
+
 **Opis kodu**
 
 Standardowo, musimy zacząć od dołączenia odpowiednich bibliotek oraz sterowników. Będą nam potrzebne biblioteki odpowiedzialne za komunikację sieciową, komunikację z pinami malinki oraz sterownik do ekranu oled.
