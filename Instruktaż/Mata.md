@@ -291,7 +291,7 @@ Czekamy aż zainstalują się biblioteki i wpisujemy kolejną komendę
 ```
 sudo node Mata.js
 ```
-Po zakończonej instalacji kodu, robimy z naszej maliny serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy,
+Po zakończonej instalacji kodu, robimy z naszej maliny serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy. (Uwaga - w tym miejscu być może również potrzeba użyć sudo przed każdą z kolejnych komend oraz istnieje możliwość, że masz podaną złą ścieżkę do "Mata.js". W tym przypadku edytuj plik "nodeserver.service" i ustaw odpowiednią ścieżkę).
 ```
 systemctl enable nodeserver.service
 ```
