@@ -274,7 +274,7 @@ Tak jak w przypadku robota, pełny kod znajdziesz w linku poniżej, a jeżeli in
 
 ### **Instalacja kodu**
 
-Sama instalacja kodu na Raspberry jest dość prosta. Najpierw klonujemy repozytorium
+Sama instalacja kodu na Raspberry jest dość prosta. Najpierw klonujemy repozytorium - postaraj się klonować repozytorium na pulpicie. W innym przypadku może się nie zgadzać ścieżka do pliku "Mata.js" w "nodeserver.service".
 ```
 git clone https://github.com/domiipl/Projekt-Inz-Pliki
 ```
@@ -291,7 +291,7 @@ Czekamy aż zainstalują się biblioteki i wpisujemy kolejną komendę
 ```
 sudo node Mata.js
 ```
-Po zakończonej instalacji kodu, robimy z naszego Raspnerru serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy. (Uwaga - w tym miejscu istnieje możliwość, że możesz mieć podaną złą ścieżkę do pliku "Mata.js". W tym przypadku edytuj plik "nodeserver.service" i ustaw odpowiednią ścieżkę. Na przykład poleceniem "nano nodeserver.service")
+Po zakończonej instalacji kodu, robimy z naszego Raspnerru serwis używając do tego pliku "nodeserver.service". Będąc dalej w folderze “Kod - mata” używamy komendy. (Uwaga - jeśli klonowałeś repozytorium w inne miejsce niż pulpit, istnieje możliwość, że możesz mieć podaną złą ścieżkę do pliku "Mata.js". W tym przypadku edytuj plik "nodeserver.service" i ustaw odpowiednią ścieżkę. Na przykład poleceniem "nano nodeserver.service")
 ```
 sudo cp nodeserver.service /lib/systemd/system/
 ```
