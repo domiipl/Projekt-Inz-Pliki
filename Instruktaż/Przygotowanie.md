@@ -60,7 +60,7 @@ W polu wyszukiwania wpisujemy "esp8266" a następnie instalujemy dany pakiet.
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_11.png>
 
-Po zakończonej instalacji pakietu, zamykamy okno menedżera płytek i klikamy jeszcze raz w narzędzia i wybieramy "Generic ESP8266 Module" z listy dostępnych płytek.
+Po zakończonej instalacji pakietu, zamykamy okno menedżera płytek i klikamy jeszcze raz w narzędzia i wybieramy "NodeMCU 0.9 (ESP-Module)" z listy dostępnych płytek.
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaPrzygotowanie/image_12.png>
 
