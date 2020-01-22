@@ -274,7 +274,7 @@ Tak jak w przypadku robota, pełny kod znajdziesz w linku poniżej, a jeżeli in
 
 ### **Instalacja kodu**
 
-Sama instalacja kodu na Raspberry jest dość prosta. Najpierw klonujemy repozytorium - postaraj się klonować repozytorium na pulpicie. W innym przypadku może się nie zgadzać ścieżka do pliku "Mata.js" w "nodeserver.service".
+Sama instalacja kodu na Raspberry jest dość prosta. Najpierw klonujemy repozytorium - postaraj się klonować repozytorium na pulpicie. W innym przypadku może się nie zgadzać ścieżka do pliku "Mata.js" w "nodeserver.service". (Jeżeli nie chcesz klonować całego repozytorium a interesuje Cię konkretny plik - tutaj również znajdują się wszystkie pliki [Pliki Dysk](https://drive.google.com/drive/u/1/folders/1W5VJ5BL_jayFQ0ZYsLru1H0zJjploT4B?fbclid=IwAR1-iW3_BvKpiBd12kXIiMoOv3q2LdrYt-mhGi44_wEOtcTU_iCk-mDpCeQ)
 ```
 git clone https://github.com/domiipl/Projekt-Inz-Pliki
 ```
