@@ -32,5 +32,11 @@ Zdjęcia końcowe produktów:
 
 <img src=https://github.com/domiipl/Projekt-Inz-Pliki/blob/master/Instrukta%C5%BC/Zdj%C4%99ciaMata/image_0.png width="50%" height="50%">
 
+Filmy przedstawiające działanie projektu:
+
+[Tryb komend](https://www.youtube.com/watch?v=S5_3_hodGV8)
+
+[Tryb swobodny](https://www.youtube.com/watch?v=uaEHo7fgwFo)
+
 W razie problemów, możesz kontaktować się z nami pod tym adresem e-mail:
 ## **projektinzrobot@gmail.com**
