@@ -94,7 +94,7 @@ void setup(){
   IPAddress gateway(192,168,1,254);
   IPAddress subnet(255,255,255,0);
   WiFi.softAPConfig(ip, gateway, subnet);
-  WiFi.softAP(ssid,pass,1,false,2);
+  WiFi.softAP(ssid,pass,1,false,1);
   IPAddress myIP = WiFi.softAPIP(); 
   Serial.print("AP IP: "); 
   Serial.println(myIP);          
