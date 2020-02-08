@@ -119,17 +119,7 @@ void loop(){
     }
     while(client.connected()){
       while(client.available()>0){
-        // read data from the connected client
-        //Serial.write(client.read());
         int readed = client.read();
-        /*
-        String line = client.readStringUntil('\n');
-        Serial.println(line);
-        char cmd[line.length()+1];
-        line.toCharArray(cmd, line.length()+1);
-        for(int i = 0; i < line.length()+1; i ++){
-          switch(cmd[i]){
-          */
           switch(readed){
             case 'u':
               fDrive = false;
